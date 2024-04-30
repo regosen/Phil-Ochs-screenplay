@@ -105,10 +105,10 @@
       <Text>PHIL</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="6bd85eb2-b692-4fad-ae6d-9f9cc58ac727">
-      <Text>All right, thanks mom.</Text>
+      <Text>All right, thanks Mom.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="a6764856-486a-4bff-bfdc-01cd9cb3fb0b">
-      <SceneProperties Length="5/8" Page="2" Title="">
+      <SceneProperties Length="6/8" Page="2" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="MICHAEL">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -127,7 +127,7 @@
       <Text>MICHAEL</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="c0b4e550-8a03-4fe8-8565-ecb01970f082">
-      <Text>You think they have anything new this time?  </Text>
+      <Text>You think they have anything new this time?</Text>
     </Paragraph>
     <Paragraph Type="Character" id="44b212cf-f674-4cd0-981d-6575b2348fe2">
       <Text>PHIL</Text>
@@ -145,7 +145,7 @@
       <Text>PHIL</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="e2dc76b6-e730-450b-8a91-23d9dc61ef02">
-      <Text>No, I’m tired of that one</Text>
+      <Text>Forget it Michael, I’m tired of that one.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="a38effcf-ccfa-4021-85be-6bdcf3adf9b6">
       <Text>Boys walk up to theater, marquee reads “Red River starring John Wayne”</Text>
@@ -154,13 +154,13 @@
       <Text>MICHAEL</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="8320af0b-13ee-4322-adeb-c3fea557ad9f">
-      <Text>Ugh, not another John Wayne.</Text>
+      <Text>Not another John Wayne.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="9c91eb88-89eb-48c4-85e2-26cc70577acf">
       <Text>PHIL</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="b75519a0-968d-473a-b431-08b091a8a174">
-      <Text>Nah, this’ll be great!  Let’s do it.</Text>
+      <Text>C’mon, this’ll be great!  Let’s do it.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="2f1a15e1-1fe5-43b5-8be9-e8b278e35b3f">
       <Text>MICHAEL</Text>
@@ -2480,7 +2480,7 @@
       <Text>PHIL</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="ba231059-378e-4424-96eb-ac67fcd0a49a">
-      <Text>I don’t know yet, I think I’ll tour around a little but I want to take it easy first.  Hopefully something more relaxing than Uruguay.</Text>
+      <Text>I don’t know yet. I think I’ll tour around a little, but I want to take it easy first.  Hopefully something more relaxing than Uruguay.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="f5d78909-1cf8-4112-ac4e-6819caf200f7">
       <SceneProperties Length="1" Page="32" Title="">
@@ -2528,7 +2528,6 @@
     <Paragraph Type="Character" id="15630766-0f62-4910-86c3-96e50ccd047e">
       <Text>DAVID</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="86b4506d-effa-4dcd-ad5b-56b07bf3739f"/>
     <Paragraph Type="Dialogue" id="ff0d914f-0083-4682-b1d5-2cf4a4567a7e">
       <Text>Studio time?  I though you were taking it easy.</Text>
     </Paragraph>
@@ -3141,7 +3140,7 @@
       <Text>BOB</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="f2e89ab1-db76-4cd2-8f3a-e00031f72546">
-      <Text>I’m not sure Phil.  You know I don’t lend my name out to a lot of causes these days.  And I’m trying to keep a low profile around here.</Text>
+      <Text>I’m not sure Phil.  I don’t lend my name out to a lot of causes these days.  And I’m trying to keep a low profile around here.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="808a4b03-2dbb-4386-8755-c924e2ad6caf">
       <Text>PHIL</Text>
@@ -3412,9 +3411,9 @@
     <Header>
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
-        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Collated Revisions"/>
+        <DynamicLabel AdornmentStyle="0" Background="#RRRRGGGGBBBB" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Collated Revisions"/>
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
-        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <DynamicLabel AdornmentStyle="0" Background="#RRRRGGGGBBBB" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
         <Tabstops>
           <Tabstop Position="4.50" Type="Center"/>
@@ -3441,7 +3440,7 @@
 
   <WindowState Height="702" Left="10" Mode="Normal" Top="120" Width="1282"/>
 
-  <TextState Scaling="75" Selection="25743,25743" ShowInvisibles="No"/>
+  <TextState Scaling="75" Selection="1354,1354" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -3566,7 +3565,7 @@
     <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
       <Header>
         <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <DynamicLabel AdornmentStyle="0" Background="#RRRRGGGGBBBB" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
           <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
         </Paragraph>
       </Header>
@@ -3806,8 +3805,8 @@
     <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
   </Revisions>
 
-  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="Vertical" SplitterPosition="609">
-    <BeatBoardPanel DisplayMode="BeatBoard" ScrollOrigin="0,315">
+  <SplitState ActivePanel="2" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="Vertical" SplitterPosition="609">
+    <BeatBoardPanel DisplayMode="Page" ScrollOrigin="0,315">
       <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
     </BeatBoardPanel>
     <ScriptPanel DisplayMode="Page">
@@ -4164,6 +4163,440 @@
   <TargetScriptLength>120</TargetScriptLength>
 
   <ListItems>
+    <ListItem Id="98154529-0848-45a7-9fd0-d0252a95ba91" Title="Chicago 1968" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="14.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Festival of Life activities p.195</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">People burning their draft cards to "I Ain't Marching Anymore" (p200)</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="22bc7433-0b94-4fb8-b281-ee4d65ecb812" Title="Jim Glover" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Ohio State roommate and first folk duo partner</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="ea38c538-2ffa-4afb-b085-d16c35fb6f9d" Title="Jim Glover's Influence" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">They met as roommates, and Jim turned Phil onto folk music and political discussion with Jim's father</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="651ce554-b20b-4803-9128-d760c6a81463" Title="The War is Over Rally 1" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="12.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">police intervention</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""> (p 145)</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="7e4cc3bd-e7c6-4fba-9f89-ba50b89e6c8c" Title="Scenes of depression" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="21.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Zoom in on open window while Phil sitting with friends.  "Do you think my songs will survive?" (p351)</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="9e720fbf-f3d2-4f3f-97a9-0c26b847c631" Title="Chile coup" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="17.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil learns while recovering from mugging in hospital what happened in Chile &lt;timeline difference&gt; (p 287)</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="66c5ceb0-5426-40a7-b739-cb89f683c805" Title="Sonny Ochs" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil's older sister</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="88515e1f-5378-49b0-9e4b-47373ab3e8fc" Title="Carnegie Hall" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="10.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">First Carnegie Hall concert (p.112-115) is this when he starts taking pills to </Text>
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">ge</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style=""> over anxiety?</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="588481f4-537d-4d5e-b01b-211b221e1ff2" Title="Carnegie Hall in Gold Suit" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="15.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">bomb</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style=""> threat, “are you prepared to die for rock and roll?”</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Content>
+    </ListItem>
+    <ListItem Id="2f882d43-5ede-4300-a271-c25f32a2d00e" Title="End of Act 1" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="3.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">After being snubbed by the Lantern, Phil drops out and resolves to embrace music career and move to NYC</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Content>
+    </ListItem>
+    <ListItem Id="c3d89bc9-d2d4-40e3-b5e6-bb58a93ea8bc" Title="Signed with A&amp;M records" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="11.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Content>
+    </ListItem>
+    <ListItem Id="547694c3-3dba-495e-84c9-67a5baf2a948" Title="Joan Baez records &quot;There But for Fortune&quot;" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="8.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">P 95</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="d8e7efd8-6753-416f-b55a-450bdd025d09" Title="Bob Dylan" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil's frenemy</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="1335cc69-2a17-45d2-ad09-2c1257538c59" Title="Alice Skinner Ochs" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil's (separated) wife and mother of his daughter.  Wealthier background than Phil</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="a5b20f32-f75f-4eea-9678-f9d39ba79c63" Title="Escape from Uruguay" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="16.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Meet David </Text>
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Ifshan</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""> in Buenos Aires</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="3eee4889-98e6-4e7f-9e5f-2a099f27fdc0" Title="Jerry Rubin" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">West coast Vietnam War activist, met Phil in California, was part of Yippee party, and traveled to Chile with him</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="9668b54c-461d-4a71-974a-8b1d92125875" Title="An Evening with Salvador Allende" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="18.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Planning concert, not filling up until he runs into Bob Dylan at bar, invites Dylan over and reads him Allende's inaugural address (read starting from "I stand here"), Dylan agrees to play</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="c3df67db-021d-4f87-a6b6-7081a6cd57f3" Title="Africa Trip" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="17.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Travels in </Text>
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Aftica</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">, recording </Text>
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Bwatue</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">, mugged on beach (cover war book p96)</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="6894799a-c59d-4046-824d-a4d68e61b8f5" Title="Bob Gibson" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Folk singer and early influencer</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="ed1646d0-c86a-408b-a683-8ba462278c16" Title="Final War Is Over Rally" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="18.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Plays with Joan Baez, p304-306</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="c91b3be9-1575-4e35-8d68-26ac9aaaa728" Title="Back to Phil" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="20.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">After visiting Alice and daughter</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="72ac9eab-7a69-4f06-8f64-af1cae79f983" Title="Act 3" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="10.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">California 1967-70</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="cf4c23ec-71f8-4bd0-9ca1-d2f8a99525d6" Title="Becoming John Train" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="19.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Persona change, bizarre plans, walking around with quart of orange juice that's 3/4 poured out and replaced with vodka</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="8f8d97ec-60d6-40fb-885e-57fb25d27c14" Title="Playing for RFK" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="11.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">On plane (depict with guitar instead of a cappella) (p.133-134)</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="5c9cae95-f2cb-46fd-96ae-6b0ac4f7d65f" Title="Chile Trip" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="16.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">With Jerry Rubin.</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Meets Victor </Text>
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Jara</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""> (p240-241)</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Meets David </Text>
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Ifshan</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""> (p242), Uruguayans invite him to speak at a university rally</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Content>
+    </ListItem>
+    <ListItem Id="8bee6a5d-e8a7-46d3-966b-733f46bda2de" Title="Snubbed at Guthrie Memorial Concert" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="13.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">P 181</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="a3f5bae2-042d-42a1-8bca-fd0fbbc61ca4" Title="Mississippi Caravan of Music" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="8.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Inspiration for "Here's to the State of Mississippi' (p85-88)</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="65544c9b-2ff4-4114-b38d-2df6f1958d63" Title="Conversations with Sonny" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="4.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Alice pregnant (p.56), dad's funeral, marries Alice</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="f82e9836-6ce5-4e2c-bc11-7afafb403246" Title="Witnesss for Chicago 7 trial" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="14.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">(p 221)</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="fe1ba7f0-ce18-4ff3-8872-a1b381dbdbb9" Title="The War is Over Rally 2" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="13.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">with Phil in civil war uniform (p 172)</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Content>
+    </ListItem>
+    <ListItem Id="cafe3593-3381-4c67-8ab1-05f3184714f5" Title="Pleasures of the Harbor" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="12.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">Phil being overly ambitious with The Crucifixion and not listening to producer Larry Marks</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""> (p161)</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="0bd765a8-2759-4215-a075-0ab5a5c949ea" Title="Samurai Sword Incident" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="20.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">shows up at A&amp;M office with a samurai sword and demands to be released from contract</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""> (p336)</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="965ae2ba-5e4f-4056-96a0-408344205841" Title="Bob Dylan plays Mr Tambourine Man" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="7.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">To Phil and David Cohen in apartment (p81-82)</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="139bf963-3590-49ff-abe2-08bf1f31351e" Title="Act 4" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="15.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Travels to Chile, Africa, Evening with Salvador Allende</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="6db89614-2624-42f5-9af5-21f12075b4c6" Title="David Ifshin" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Student activist from Syracuse, Phil's travel buddy in Uruguay and Africa.</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">(NOTE: merge with Jerry Rubin to make story easier to follow?)</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="a604f3c3-bfd9-4b3d-92d4-2fa76d121c90" Title="Flashback 1" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="0.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Start zoomed in on WWII memorabilia, zoom out to Dad being out of it since WWII, mother sends Phil and brother Michael out to movies, Phil mesmerized by John Wayne</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="221c0607-030a-4839-a999-6715f390e47d" Title="Michael Ochs" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil's younger brother who later managed him</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="367d56f2-30c7-4aac-97a1-4feee179c47b" Title="Newport Folk Festival '63" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="5.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Feeling sick before gig (p 61-62), standing ovation</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="b57a0d5e-5b92-41f0-a907-0632e073df42" Title="JFK's Assassination" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="5.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil weeps at his kitchen table (p68)</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="a904fc9c-24f2-4191-adac-08ffe5bbcb21" Title="Central Conflict" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">1. Phil's goal is to reach a wide audience with his political messages</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">2. The main obstacle is usually Phil himself, his stubbornness, and his mental illness</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">3. Phil must get help, adapt and get over his own illusions of grandeur</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">4. The worst thing that will happen is death</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">5. Phil fails to change, gives up and hangs himself</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="9ae4035e-e336-4039-b1ca-4c82fbda8681" Title="Act 5" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="19.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">John Train and demise</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="15663ff1-fdf7-4564-8b4e-c3fab99c055f" Title="Newport Festival 64" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="7.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">People don't like Dylan's non-topical songs (p83-84)</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="f897de5c-ce01-4505-a2bd-75300574fb48" Title="Act 2" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="3.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">New York 1962-1966</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="da6a97c8-3f55-4141-943c-6fb77b25ba5c" Title="Eastern Kentucky" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="6.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">playing</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style=""> for coal miners strike in eastern Kentucky, pattern of wife unhappy that he’s away for holidays (p.72-74)</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Content>
+    </ListItem>
+    <ListItem Id="1ca792d0-5458-4237-9161-b6504b0d7aeb" Title="Newport Festival 65" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="9.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil snubbed, Dylan goes electric, Phil laughing and cheering while others booing (p101-104)</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="5f39dfda-2f06-497e-ac06-964329cb7096" Title="Journalist" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="1.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">1959 student journalist, writing articles for The Lantern, they don't like his left-wing politics and coverage of the Cuban Revolution.  Phil starts his own paper</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="2d74a222-55ad-4288-9942-f82c865bc4a4" Title="End of Act 5" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="21.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil staying with sister, playing "Jim Dean of Indiana", looking like a ghost, suicide scene.  Credits show FBI was tracking him since 1963</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="81c20cd4-7c45-4088-a257-68a3534ade24" Title="Getting First Guitar" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="2.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil bets Jim that JFK will win, wins bet</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="80cdfcb7-b7c1-4a4f-9791-131c792b26d9" Title="Greenwich Village" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="4.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Folk music scene, meets Bob Dylan, also managed by Albert Grossman.  Is this when we should have a scene where he's talking about Vietnam to people who don't know where it is?</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="afba424e-8b3f-4d52-812a-04e188f2ceef" Title="Bob Dylan Limousine" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 1" Number="9.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">Bob Dylan kicks Phil out of limousine for criticizing song (p.106)</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
     <ListItem Id="f50333fd-667b-4b07-9fbf-13b771955415" Title="Phil Ochs" Type="Beat">
       <Content>
         <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
@@ -4187,445 +4620,11 @@
         </Paragraph>
       </Content>
     </ListItem>
-    <ListItem Id="81c20cd4-7c45-4088-a257-68a3534ade24" Title="Getting First Guitar" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="2.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil bets Jim that JFK will win, wins bet</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="2d74a222-55ad-4288-9942-f82c865bc4a4" Title="End of Act 5" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="21.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil staying with sister, playing "Jim Dean of Indiana", looking like a ghost, suicide scene.  Credits show FBI was tracking him since 1963</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="5f39dfda-2f06-497e-ac06-964329cb7096" Title="Journalist" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="1.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">1959 student journalist, writing articles for The Lantern, they don't like his left-wing politics and coverage of the Cuban Revolution.  Phil starts his own paper</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="da6a97c8-3f55-4141-943c-6fb77b25ba5c" Title="Eastern Kentucky" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="6.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">playing</Text>
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style=""> for coal miners strike in eastern Kentucky, pattern of wife unhappy that he’s away for holidays (p.72-74)</Text>
-        </Paragraph>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-      </Content>
-    </ListItem>
-    <ListItem Id="f897de5c-ce01-4505-a2bd-75300574fb48" Title="Act 2" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="3.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">New York 1962-1966</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="1ca792d0-5458-4237-9161-b6504b0d7aeb" Title="Newport Festival 65" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="9.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil snubbed, Dylan goes electric, Phil laughing and cheering while others booing (p101-104)</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
     <ListItem Id="728a1ebe-5b52-4265-a66d-7a044bf9fb1d" Title="Signed to Elektra" Type="Beat">
       <SubordinateTo Length="0.500" Level="Outline 1" Number="6.500" Order="0" Type="PageGoal"/>
       <Content>
         <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
           <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Approached by A&amp;R man after a show at the Gaslight (p.76)</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="afba424e-8b3f-4d52-812a-04e188f2ceef" Title="Bob Dylan Limousine" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="9.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">Bob Dylan kicks Phil out of limousine for criticizing song (p.106)</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="15663ff1-fdf7-4564-8b4e-c3fab99c055f" Title="Newport Festival 64" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="7.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">People don't like Dylan's non-topical songs (p83-84)</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="9ae4035e-e336-4039-b1ca-4c82fbda8681" Title="Act 5" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="19.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">John Train and demise</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="80cdfcb7-b7c1-4a4f-9791-131c792b26d9" Title="Greenwich Village" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="4.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Folk music scene, meets Bob Dylan, also managed by Albert Grossman.  Is this when we should have a scene where he's talking about Vietnam to people who don't know where it is?</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="b57a0d5e-5b92-41f0-a907-0632e073df42" Title="JFK's Assassination" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="5.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil weeps at his kitchen table (p68)</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="221c0607-030a-4839-a999-6715f390e47d" Title="Michael Ochs" Type="Beat">
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil's younger brother who later managed him</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="367d56f2-30c7-4aac-97a1-4feee179c47b" Title="Newport Folk Festival '63" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="5.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Feeling sick before gig (p 61-62), standing ovation</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="6db89614-2624-42f5-9af5-21f12075b4c6" Title="David Ifshin" Type="Beat">
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Student activist from Syracuse, Phil's travel buddy in Uruguay and Africa.</Text>
-        </Paragraph>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">(NOTE: merge with Jerry Rubin to make story easier to follow?)</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="a604f3c3-bfd9-4b3d-92d4-2fa76d121c90" Title="Flashback 1" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="0.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Start zoomed in on WWII memorabilia, zoom out to Dad being out of it since WWII, mother sends Phil and brother Michael out to movies, Phil mesmerized by John Wayne</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="139bf963-3590-49ff-abe2-08bf1f31351e" Title="Act 4" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="15.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Travels to Chile, Africa, Evening with Salvador Allende</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="0bd765a8-2759-4215-a075-0ab5a5c949ea" Title="Samurai Sword Incident" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="20.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">shows up at A&amp;M office with a samurai sword and demands to be released from contract</Text>
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""> (p336)</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="965ae2ba-5e4f-4056-96a0-408344205841" Title="Bob Dylan plays Mr Tambourine Man" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="7.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">To Phil and David Cohen in apartment (p81-82)</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="a904fc9c-24f2-4191-adac-08ffe5bbcb21" Title="Central Conflict" Type="Beat">
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">1. Phil's goal is to reach a wide audience with his political messages</Text>
-        </Paragraph>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">2. The main obstacle is usually Phil himself, his stubbornness, and his mental illness</Text>
-        </Paragraph>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">3. Phil must get help, adapt and get over his own illusions of grandeur</Text>
-        </Paragraph>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">4. The worst thing that will happen is death</Text>
-        </Paragraph>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">5. Phil fails to change, gives up and hangs himself</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="cafe3593-3381-4c67-8ab1-05f3184714f5" Title="Pleasures of the Harbor" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="12.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">Phil being overly ambitious with The Crucifixion and not listening to producer Larry Marks</Text>
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""> (p161)</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="fe1ba7f0-ce18-4ff3-8872-a1b381dbdbb9" Title="The War is Over Rally 2" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="13.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">with Phil in civil war uniform (p 172)</Text>
-        </Paragraph>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-      </Content>
-    </ListItem>
-    <ListItem Id="f82e9836-6ce5-4e2c-bc11-7afafb403246" Title="Witnesss for Chicago 7 trial" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="14.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">(p 221)</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="65544c9b-2ff4-4114-b38d-2df6f1958d63" Title="Conversations with Sonny" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="4.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Alice pregnant (p.56), dad's funeral, marries Alice</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="a3f5bae2-042d-42a1-8bca-fd0fbbc61ca4" Title="Mississippi Caravan of Music" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="8.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Inspiration for "Here's to the State of Mississippi' (p85-88)</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="8bee6a5d-e8a7-46d3-966b-733f46bda2de" Title="Snubbed at Guthrie Memorial Concert" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="13.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">P 181</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="5c9cae95-f2cb-46fd-96ae-6b0ac4f7d65f" Title="Chile Trip" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="16.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">With Jerry Rubin.</Text>
-        </Paragraph>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Meets Victor </Text>
-          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Jara</Text>
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""> (p240-241)</Text>
-        </Paragraph>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Meets David </Text>
-          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Ifshan</Text>
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""> (p242), Uruguayans invite him to speak at a university rally</Text>
-        </Paragraph>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-      </Content>
-    </ListItem>
-    <ListItem Id="8f8d97ec-60d6-40fb-885e-57fb25d27c14" Title="Playing for RFK" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="11.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">On plane (depict with guitar instead of a cappella) (p.133-134)</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="cf4c23ec-71f8-4bd0-9ca1-d2f8a99525d6" Title="Becoming John Train" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="19.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Persona change, bizarre plans, walking around with quart of orange juice that's 3/4 poured out and replaced with vodka</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="72ac9eab-7a69-4f06-8f64-af1cae79f983" Title="Act 3" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="10.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">California 1967-70</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="c91b3be9-1575-4e35-8d68-26ac9aaaa728" Title="Back to Phil" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="20.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">After visiting Alice and daughter</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="ed1646d0-c86a-408b-a683-8ba462278c16" Title="Final War Is Over Rally" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="18.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Plays with Joan Baez, p304-306</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="6894799a-c59d-4046-824d-a4d68e61b8f5" Title="Bob Gibson" Type="Beat">
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Folk singer and early influencer</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="c3df67db-021d-4f87-a6b6-7081a6cd57f3" Title="Africa Trip" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="17.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Travels in </Text>
-          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Aftica</Text>
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">, recording </Text>
-          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Bwatue</Text>
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">, mugged on beach (cover war book p96)</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="9668b54c-461d-4a71-974a-8b1d92125875" Title="An Evening with Salvador Allende" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="18.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Planning concert, not filling up until he runs into Bob Dylan at bar, invites Dylan over and reads him Allende's inaugural address (read starting from "I stand here"), Dylan agrees to play</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="3eee4889-98e6-4e7f-9e5f-2a099f27fdc0" Title="Jerry Rubin" Type="Beat">
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">West coast Vietnam War activist, met Phil in California, was part of Yippee party, and traveled to Chile with him</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="a5b20f32-f75f-4eea-9678-f9d39ba79c63" Title="Escape from Uruguay" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="16.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Meet David </Text>
-          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Ifshan</Text>
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""> in Buenos Aires</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="d8e7efd8-6753-416f-b55a-450bdd025d09" Title="Bob Dylan" Type="Beat">
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil's frenemy</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="547694c3-3dba-495e-84c9-67a5baf2a948" Title="Joan Baez records &quot;There But for Fortune&quot;" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="8.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">P 95</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="1335cc69-2a17-45d2-ad09-2c1257538c59" Title="Alice Skinner Ochs" Type="Beat">
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil's (separated) wife and mother of his daughter.  Wealthier background than Phil</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="c3d89bc9-d2d4-40e3-b5e6-bb58a93ea8bc" Title="Signed with A&amp;M records" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="11.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-      </Content>
-    </ListItem>
-    <ListItem Id="2f882d43-5ede-4300-a271-c25f32a2d00e" Title="End of Act 1" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="3.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">After being snubbed by the Lantern, Phil drops out and resolves to embrace music career and move to NYC</Text>
-        </Paragraph>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-      </Content>
-    </ListItem>
-    <ListItem Id="588481f4-537d-4d5e-b01b-211b221e1ff2" Title="Carnegie Hall in Gold Suit" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="15.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">bomb</Text>
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style=""> threat, “are you prepared to die for rock and roll?”</Text>
-        </Paragraph>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-      </Content>
-    </ListItem>
-    <ListItem Id="88515e1f-5378-49b0-9e4b-47373ab3e8fc" Title="Carnegie Hall" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="10.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">First Carnegie Hall concert (p.112-115) is this when he starts taking pills to </Text>
-          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">ge</Text>
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style=""> over anxiety?</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="66c5ceb0-5426-40a7-b739-cb89f683c805" Title="Sonny Ochs" Type="Beat">
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil's older sister</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="9e720fbf-f3d2-4f3f-97a9-0c26b847c631" Title="Chile coup" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="17.500" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Phil learns while recovering from mugging in hospital what happened in Chile &lt;timeline difference&gt; (p 287)</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="7e4cc3bd-e7c6-4fba-9f89-ba50b89e6c8c" Title="Scenes of depression" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="21.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Zoom in on open window while Phil sitting with friends.  "Do you think my songs will survive?" (p351)</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="651ce554-b20b-4803-9128-d760c6a81463" Title="The War is Over Rally 1" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="12.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Helvetica Neue" RevisionID="0" Size="13" Style="">police intervention</Text>
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""> (p 145)</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="ea38c538-2ffa-4afb-b085-d16c35fb6f9d" Title="Jim Glover's Influence" Type="Beat">
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">They met as roommates, and Jim turned Phil onto folk music and political discussion with Jim's father</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="22bc7433-0b94-4fb8-b281-ee4d65ecb812" Title="Jim Glover" Type="Beat">
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Ohio State roommate and first folk duo partner</Text>
-        </Paragraph>
-      </Content>
-    </ListItem>
-    <ListItem Id="98154529-0848-45a7-9fd0-d0252a95ba91" Title="Chicago 1968" Type="Beat">
-      <SubordinateTo Length="0.500" Level="Outline 1" Number="14.000" Order="0" Type="PageGoal"/>
-      <Content>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Festival of Life activities p.195</Text>
-        </Paragraph>
-        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.01" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">People burning their draft cards to "I Ain't Marching Anymore" (p200)</Text>
         </Paragraph>
       </Content>
     </ListItem>
@@ -4693,49 +4692,49 @@
         <Lane Id="34795ead-378c-46b8-b4ae-aca48ae1599f" Label="Outline 1" Level="7" Type="Outline 1"/>
         <Lane Id="94c25f42-9cc0-4753-a044-c5b67ccb9eb9" Label="Outline 2" Level="5" Type="Outline 2"/>
       </Lanes>
-      <Item Id="a604f3c3-bfd9-4b3d-92d4-2fa76d121c90" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="c544b16e-545c-46e4-bcee-886509810cc7" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="5f39dfda-2f06-497e-ac06-964329cb7096" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="81c20cd4-7c45-4088-a257-68a3534ade24" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="b67140d2-9420-4155-b90c-28ade51659b6" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="2f882d43-5ede-4300-a271-c25f32a2d00e" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="f897de5c-ce01-4505-a2bd-75300574fb48" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="80cdfcb7-b7c1-4a4f-9791-131c792b26d9" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="65544c9b-2ff4-4114-b38d-2df6f1958d63" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="367d56f2-30c7-4aac-97a1-4feee179c47b" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="da6a97c8-3f55-4141-943c-6fb77b25ba5c" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="b57a0d5e-5b92-41f0-a907-0632e073df42" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="728a1ebe-5b52-4265-a66d-7a044bf9fb1d" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="15663ff1-fdf7-4564-8b4e-c3fab99c055f" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="a3f5bae2-042d-42a1-8bca-fd0fbbc61ca4" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="547694c3-3dba-495e-84c9-67a5baf2a948" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="965ae2ba-5e4f-4056-96a0-408344205841" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="1ca792d0-5458-4237-9161-b6504b0d7aeb" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="afba424e-8b3f-4d52-812a-04e188f2ceef" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="88515e1f-5378-49b0-9e4b-47373ab3e8fc" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="72ac9eab-7a69-4f06-8f64-af1cae79f983" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="c3d89bc9-d2d4-40e3-b5e6-bb58a93ea8bc" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="8f8d97ec-60d6-40fb-885e-57fb25d27c14" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="651ce554-b20b-4803-9128-d760c6a81463" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="cafe3593-3381-4c67-8ab1-05f3184714f5" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="fe1ba7f0-ce18-4ff3-8872-a1b381dbdbb9" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="8bee6a5d-e8a7-46d3-966b-733f46bda2de" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="98154529-0848-45a7-9fd0-d0252a95ba91" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="f82e9836-6ce5-4e2c-bc11-7afafb403246" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="588481f4-537d-4d5e-b01b-211b221e1ff2" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="139bf963-3590-49ff-abe2-08bf1f31351e" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="5c9cae95-f2cb-46fd-96ae-6b0ac4f7d65f" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="a5b20f32-f75f-4eea-9678-f9d39ba79c63" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="c3df67db-021d-4f87-a6b6-7081a6cd57f3" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="9e720fbf-f3d2-4f3f-97a9-0c26b847c631" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="9668b54c-461d-4a71-974a-8b1d92125875" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="ed1646d0-c86a-408b-a683-8ba462278c16" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="9ae4035e-e336-4039-b1ca-4c82fbda8681" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="cf4c23ec-71f8-4bd0-9ca1-d2f8a99525d6" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="0bd765a8-2759-4215-a075-0ab5a5c949ea" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="c91b3be9-1575-4e35-8d68-26ac9aaaa728" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
-      <Item Id="7e4cc3bd-e7c6-4fba-9f89-ba50b89e6c8c" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
       <Item Id="2d74a222-55ad-4288-9942-f82c865bc4a4" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="7e4cc3bd-e7c6-4fba-9f89-ba50b89e6c8c" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="c91b3be9-1575-4e35-8d68-26ac9aaaa728" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="0bd765a8-2759-4215-a075-0ab5a5c949ea" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="cf4c23ec-71f8-4bd0-9ca1-d2f8a99525d6" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="9ae4035e-e336-4039-b1ca-4c82fbda8681" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="ed1646d0-c86a-408b-a683-8ba462278c16" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="9668b54c-461d-4a71-974a-8b1d92125875" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="9e720fbf-f3d2-4f3f-97a9-0c26b847c631" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="c3df67db-021d-4f87-a6b6-7081a6cd57f3" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="a5b20f32-f75f-4eea-9678-f9d39ba79c63" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="5c9cae95-f2cb-46fd-96ae-6b0ac4f7d65f" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="139bf963-3590-49ff-abe2-08bf1f31351e" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="588481f4-537d-4d5e-b01b-211b221e1ff2" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="f82e9836-6ce5-4e2c-bc11-7afafb403246" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="98154529-0848-45a7-9fd0-d0252a95ba91" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="8bee6a5d-e8a7-46d3-966b-733f46bda2de" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="fe1ba7f0-ce18-4ff3-8872-a1b381dbdbb9" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="cafe3593-3381-4c67-8ab1-05f3184714f5" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="651ce554-b20b-4803-9128-d760c6a81463" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="8f8d97ec-60d6-40fb-885e-57fb25d27c14" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="c3d89bc9-d2d4-40e3-b5e6-bb58a93ea8bc" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="72ac9eab-7a69-4f06-8f64-af1cae79f983" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="88515e1f-5378-49b0-9e4b-47373ab3e8fc" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="afba424e-8b3f-4d52-812a-04e188f2ceef" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="1ca792d0-5458-4237-9161-b6504b0d7aeb" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="965ae2ba-5e4f-4056-96a0-408344205841" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="547694c3-3dba-495e-84c9-67a5baf2a948" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="a3f5bae2-042d-42a1-8bca-fd0fbbc61ca4" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="15663ff1-fdf7-4564-8b4e-c3fab99c055f" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="728a1ebe-5b52-4265-a66d-7a044bf9fb1d" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="b57a0d5e-5b92-41f0-a907-0632e073df42" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="da6a97c8-3f55-4141-943c-6fb77b25ba5c" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="367d56f2-30c7-4aac-97a1-4feee179c47b" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="65544c9b-2ff4-4114-b38d-2df6f1958d63" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="80cdfcb7-b7c1-4a4f-9791-131c792b26d9" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="f897de5c-ce01-4505-a2bd-75300574fb48" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="2f882d43-5ede-4300-a271-c25f32a2d00e" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="b67140d2-9420-4155-b90c-28ade51659b6" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="81c20cd4-7c45-4088-a257-68a3534ade24" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="5f39dfda-2f06-497e-ac06-964329cb7096" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="c544b16e-545c-46e4-bcee-886509810cc7" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
+      <Item Id="a604f3c3-bfd9-4b3d-92d4-2fa76d121c90" LaneId="34795ead-378c-46b8-b4ae-aca48ae1599f"/>
     </DisplayBoard>
   </DisplayBoards>
 

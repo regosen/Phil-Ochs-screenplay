@@ -25,3 +25,4 @@ You can leave feedback in the following ways:
 ## Changelog
 
 - 0.1.0: Incomplete draft of screenplay, open to new contributors
+- 0.1.1: Upgraded to Final Draft 13.1.0
