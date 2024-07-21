@@ -1,340 +1,349 @@
-The War Is Over	05-29-2024		GERTRUDE OCHS			Jack.
-The War Is Over	05-29-2024		GERTRUDE OCHS			Jack honey.
-The War Is Over	05-29-2024		JACK OCHS			Mmmph.
-The War Is Over	05-29-2024		GERTRUDE OCHS			You haven’t moved in over an hour.  Why don’t you take a walk outside, isn’t that what the doctor suggested?
-The War Is Over	05-29-2024		JACK OCHS			No!... Sorry dear, I’ll be fine.
-The War Is Over	05-29-2024		GERTRUDE OCHS			Can I make you come tea? Or-
-The War Is Over	05-29-2024		JACK OCHS			No no, I just need to be left alone, that’s all.
-The War Is Over	05-29-2024		GERTRUDE OCHS			All right, dear.  I’m trying.
-The War Is Over	05-29-2024		GERTRUDE OCHS			Boys, why don’t you go see a movie.
-The War Is Over	05-29-2024		GERTRUDE OCHS		(hands money)		Here you go Philip, just be back by dinner, okay dear?
-The War Is Over	05-29-2024		PHIL			All right, thanks Mom.
-The War Is Over	05-29-2024		MICHAEL			You think they have anything new this time?
-The War Is Over	05-29-2024		PHIL			Nah, this one never plays the new stuff.
-The War Is Over	05-29-2024		MICHAEL			Ooh, maybe they’ll have King Kong again!
-The War Is Over	05-29-2024		PHIL			Forget it Michael, I’m tired of that one.
-The War Is Over	05-29-2024		MICHAEL			Not another John Wayne.
-The War Is Over	05-29-2024		PHIL			C’mon, this’ll be great!  Let’s do it.
-The War Is Over	05-29-2024		MICHAEL			You think they’re all great.
-The War Is Over	05-29-2024		EDITOR			Well?
-The War Is Over	05-29-2024		PHIL			Well what?  I can continue writing for the Lantern, and keep putting out my own newspaper.  I have enough material for both.
-The War Is Over	05-29-2024		EDITOR			That’s fine, but-
-The War Is Over	05-29-2024		PHIL			And I’m only doing this because you’re censoring me.
-The War Is Over	05-29-2024		EDITOR			Easy there.  As editor-in-chief, I have to decide what will fit into our papers, it’s as simple as that.
-The War Is Over	05-29-2024		PHIL			And-
-The War Is Over	05-29-2024		EDITOR			And what you write isn’t always fit to print.
-The War Is Over	05-29-2024		PHIL			If you think my research-
-The War Is Over	05-29-2024		EDITOR			Come on Phil, it’s not that.  It’s the editorializing.  It’s the blatant side taking.  Like this last article you submitted on the Cuban revolution.  You’re making Castro out to be the good guy in some movie.
-The War Is Over	05-29-2024		PHIL			He is the good guy.  I mean, put yourself in their shoes.  If your whole life was spent-
-The War Is Over	05-29-2024		EDITOR			I’m not going to argue with you on this.  You have to think about the audience.
-The War Is Over	05-29-2024		PHIL			See, that’s where you’re wrong.  If we just pander to the audience, what service are we providing to society?  We might as well not exist.
-The War Is Over	05-29-2024		EDITOR			Without our funding, we won’t exist.  And what do you think will happen to our funding if we keep-
-The War Is Over	05-29-2024		PHIL			Once I become editor-in-chief-
-The War Is Over	05-29-2024		EDITOR			If ... you become editor-in-chief, and that’s a big if.
-The War Is Over	05-29-2024		PHIL			We’ll see about that.
-The War Is Over	05-29-2024		MR. GLOVER			Phil, I understand you’ve started your own paper on campus, that sounds like quite the undertaking.
-The War Is Over	05-29-2024		PHIL			Word travels fast, Mr. Glover.  I just have a lot more to write than what can fit in the Lantern.  Thanks again for lending me those history books, by the way.
-The War Is Over	05-29-2024		MR. GLOVER			Oh they’re history books now, huh.  I guess I’m that old.
-The War Is Over	05-29-2024		MR. GLOVER			
-The War Is Over	05-29-2024		PHIL			Oh no, I didn’t mean-
-The War Is Over	05-29-2024		MR. GLOVER	(laughing)		It’s all right.  Someday it’ll be your turn to be the old sage.  So Jim says you’re moving out of the boarding house?
-The War Is Over	05-29-2024		PHIL			Yeah, I need to be closer to the action, plus the other journalists are mostly at Steeb Hall.  It won’t be as homey, but at least Jim’s records won’t be strewn everywhere.
-The War Is Over	05-29-2024		JIM			Hey, you never complained!  I thought you liked my records.
-The War Is Over	05-29-2024		PHIL			I’m just kidding around.  Now I have to get my own copies of Woody Guthrie.  And you’ll have to get your own copies of Elvis.
-The War Is Over	05-29-2024		JIM			Sure I will.
-The War Is Over	05-29-2024		JIM			I still can’t believe Kennedy’s gonna win the nomination.  I thought for sure that Humphrey would get it.
-The War Is Over	05-29-2024		PHIL			Well, I called it, didn’t I.  We should’ve made it interesting.
-The War Is Over	05-29-2024		JIM			You know we still can.  He doesn’t stand a chance against Nixon in the fall.  He’s got no experience.
-The War Is Over	05-29-2024		PHIL			All right, you’re on.  I’ll put fifty dollars on it.
-The War Is Over	05-29-2024		JIM			You don’t even have fifty dollars.
-The War Is Over	05-29-2024		PHIL			I don’t need it, ‘cause Kennedy’s gonna win.  And when he does, I get your guitar.
-The War Is Over	05-29-2024		JIM			Ok, you’ve got yourself a deal.
-The War Is Over	05-29-2024		PHIL			I don’t know what to do.  Alice is four months pregnant and she wants me to marry her, but I don’t think I want to marry her.
-The War Is Over	05-29-2024		SONNY			Look, I was just talking to yer yesterday.  She wants to have the baby, but she won’t do it without being married.  I think you owe her at least that much.
-The War Is Over	05-29-2024		PHIL			I don’t know, I need more time to think about it.
-The War Is Over	05-29-2024		SONNY			What’s there to think about?  What the hell’s the big deal?  I mean, it’s not the rest of your life.  All you’re doing is giving the baby a legitimate name.  If it works out, fine.  If it doesn’t, so what?  You can always get divorced.  At least she’ll have the baby.  You could at least do that much for her.
-The War Is Over	05-29-2024		PHIL			Maybe divorce wasn’t a big deal for you, but that doesn’t hold for everyone... Sorry. Let me give it some more thought, okay?
-The War Is Over	05-29-2024		PHIL			Hello?
-The War Is Over	05-29-2024		SONNY			Hey, it’s Sonny.
-The War Is Over	05-29-2024		PHIL			Hey, listen, if this is about Alice again, I still need a week to-
-The War Is Over	05-29-2024		SONNY			You don’t have a week to think about it.  You have twenty-four hours.
-The War Is Over	05-29-2024		PHIL			Why?
-The War Is Over	05-29-2024		SONNY			Phil, your father just dropped dead.  They’re bringing his body to New York.  The funeral is tomorrow and Ma’s going to be there.  You better decide what you’re going to do right now.
-The War Is Over	05-29-2024		PHIL			Why do I have to be there?  What’s the difference if I’m there or not?
-The War Is Over	05-29-2024		SONNY			Phil, this is your father.  Regardless of the feeling you have or don’t have, you must be at the funeral, and it’s tomorrow.  So you get your ass out here, and you make your decision by tomorrow, because Ma’s going to be here and you’re going to have to tell her.
-The War Is Over	05-29-2024		PHIL			Ma, I have something to tell you.
-The War Is Over	05-29-2024		GERTRUDE OCHS			What?
-The War Is Over	05-29-2024		PHIL			Alice and I are getting married.
-The War Is Over	05-29-2024		GERTRUDE OCHS			Why?
-The War Is Over	05-29-2024		PHIL			Because Alice is pregnant
-The War Is Over	05-29-2024		GERTRUDE OCHS			...Why?
-The War Is Over	05-29-2024		ALICE			They’re here.
-The War Is Over	05-29-2024		PHIL			Will you get that?
-The War Is Over	05-29-2024		SONNY			Hi, we finally made it!
-The War Is Over	05-29-2024		SONNY		(to baby)		Hi Meegan!
-The War Is Over	05-29-2024		ALICE			Phil, are you going to say hello to your mother and sister?
-The War Is Over	05-29-2024		PHIL	(without looking up from his guitar)		Hey.
-The War Is Over	05-29-2024		ALICE	(shakes her head to the guests)		Please have a seat.  Can I get you some coffee?
-The War Is Over	05-29-2024		GERTRUDE OCHS			That would be great, but here, let me help.
-The War Is Over	05-29-2024		SONNY			So, how are things?
-The War Is Over	05-29-2024		ALICE			Things are all right.  Lots of gigs, as usual.  Phil’s heading out to Rhode Island next week, for this big folk festival.
-The War Is Over	05-29-2024		PHIL	(without looking up)		Newport.
-The War Is Over	05-29-2024		ALICE			Glad you could join the conversation.
-The War Is Over	05-29-2024		SONNY			All right Phil, what exactly are you doing that’s more important than joining us?
-The War Is Over	05-29-2024		PHIL			I’m playing the greatest song I’ll ever write.
-The War Is Over	05-29-2024		SONNY			Well then, sing it.  What are the words?
-The War Is Over	05-29-2024		PHIL			I haven’t written them yet.
-The War Is Over	05-29-2024		FRIEND			Hey Phil, are you ok?
-The War Is Over	05-29-2024		PHIL			I’m not sure.  (grimacing) Argh, I think I’m having a migraine.  I’d better lie down for a bit.
-The War Is Over	05-29-2024		FRIEND			Feeling any better?
-The War Is Over	05-29-2024		PHIL			Not really... oh man, my heart’s racing, feels like I’m dying...
-The War Is Over	05-29-2024		FRIEND			Hey John, let’s pull off when we get to Milford, I’ll bet there’s a hospital there.
-The War Is Over	05-29-2024		PHIL			No!  I can’t miss the festival.  And I don’t want you guys to miss it either.
-The War Is Over	05-29-2024		FRIEND			Would you rather die instead?
-The War Is Over	05-29-2024		PHIL			Maybe...
-The War Is Over	05-29-2024		FRIEND			So what happened?  Are you feeling better?
-The War Is Over	05-29-2024		PHIL			Yeah, the doctor gave me something for the headaches, plus this Valium.  But I’d rather not take it.
-The War Is Over	05-29-2024		FRIEND			Well give it up then, man!  I could use some later!
-The War Is Over	05-29-2024		PETE SEEGER			I don’t want to deny the next singer at least his two songs.  And you’ll wish when you heard ‘em that there’s a lot more time for him too.  It’s Phil Ochs.
-The War Is Over	05-29-2024		PHIL			(mumbling)
-The War Is Over	05-29-2024		PHIL		(without looking up)		Thank you.
-The War Is Over	05-29-2024		PHIL			
-The War Is Over	05-29-2024		PHIL			Well I think whenever there’s a deep tragedy, there’s also a present, um, something of the ridiculous, which is also true about immigration, so um, I’m sure you all remember a little town called Birmingham.  So I’d like to do you a song now, called “Talking Birmingham Jam”.
-The War Is Over	05-29-2024		PHIL			(in talking blues style)
-The War Is Over	05-29-2024		PHIL			Walking down to Birmingham...
-The War Is Over	05-29-2024		PHIL			Thanks so much.
-The War Is Over	05-29-2024		PHIL			I think Seeger’s coming around, Bob.  Or he just couldn’t find an ax this time.
-The War Is Over	05-29-2024		DAVID BLUE			Man, what a great show though.  So where should we go?
-The War Is Over	05-29-2024		BOB			Let’s go uptown, I’ve got a limo coming here any minute.  But first, let me play you that song I was talking about.  This is the one I’ve been trying to do for years.
-The War Is Over	05-29-2024		PHIL			What’s it called?
-The War Is Over	05-29-2024		BOB			“Can You Please Crawl Out Your Window?”
-The War Is Over	05-29-2024		PHIL	(plays a chord, sings in talking blues style)		The newest sensation about defenestration!
-The War Is Over	05-29-2024		BOB			Hey cut it out, this is serious.
-The War Is Over	05-29-2024		BOB		(singing)		He sits in your room, his tomb, with a fist full of tacks Preoccupied with his vengeance Cursing the dead that can't answer him back You know that he has no intentions Of looking your way, unless it's to say That he needs you to test his inventions Hey, crawl out your window Come on, don't say it will ruin you.
-The War Is Over	05-29-2024		BOB			Come on, don't say he will haunt you. You can go back to him any time you want to.
-The War Is Over	05-29-2024		DAVID BLUE			That’s fantastic man, it’s like peeling an onion, there’s a lot going on in the song.
-The War Is Over	05-29-2024		BOB			Ochs, what about you?  What do you think?
-The War Is Over	05-29-2024		PHIL			It’s okay.
-The War Is Over	05-29-2024		BOB			What do you mean?  Listen to it again.
-The War Is Over	05-29-2024		PHIL			Hold on, the limo’s here.
-The War Is Over	05-29-2024		BOB			He can wait.
-The War Is Over	05-29-2024		PHIL			Look, I don’t think hearing it again will change anything.  I’m saying it’s ok, but it’s not going to be a hit.
-The War Is Over	05-29-2024		BOB	(Gets up quickly)		You’re crazy, man!  It’s a great song.  You only know protest, that’s all.
-The War Is Over	05-29-2024		DAVID BLUE	(Gets up)		Hey guys, let’s go enjoy ourselves.
-The War Is Over	05-29-2024		DAVID BLUE			Phil, I think once you hear it in a rock format, it’ll really come together.  But I think it already stands on its own-
-The War Is Over	05-29-2024		BOB			I’m done talking about it.
-The War Is Over	05-29-2024		BOB			Actually you know what-
-The War Is Over	05-29-2024		BOB		(motions to driver)		Hey!  Can you pull over for a minute?
-The War Is Over	05-29-2024		DAVID BLUE			What’s going on?
-The War Is Over	05-29-2024		BOB	(points at Phil)		You’re getting out.
-The War Is Over	05-29-2024		PHIL	(laughs)		You’re kidding, right?
-The War Is Over	05-29-2024		BOB			Get out, Ochs.
-The War Is Over	05-29-2024		PHIL			Fine.  You wanted my opinion so I gave it to you, my mistake!
-The War Is Over	05-29-2024		BOB			You’re not a folk singer, you’re a journalist!
-The War Is Over	05-29-2024		BOB		(laughs)		
-The War Is Over	05-29-2024		RFK			It is we who live in abundance and send our young men out to die.  It is our chemicals that scorch the children, and our bombs that level the villages.  We are all participants.
-The War Is Over	05-29-2024		JACK NEWFIELD	(To Phil)		Wow, he’s really doing this.
-The War Is Over	05-29-2024		PHIL			I’m so glad you invited me.  Maybe I should get a gig like this, writing a profile on someone, getting paid to follow him around.
-The War Is Over	05-29-2024		JACK NEWFIELD			Looking for a career change?  By the way, we might even catch the same air shuttle back to New York with him.
-The War Is Over	05-29-2024		RFK			Hey, is it true that Bob Dylan changed his name to boost his career?
-The War Is Over	05-29-2024		PHIL			Sure is.  His real last name is Zimmerman.
-The War Is Over	05-29-2024		RFK			Do you think it would help if I changed mine?
-The War Is Over	05-29-2024		RFK			I understand you’ve spent a lot of time on college grounds as part of your touring.
-The War Is Over	05-29-2024		PHIL			I have.  In a way, it’s like I never dropped out.  I just started playing instead of taking classes.
-The War Is Over	05-29-2024		RFK			I’ll bet you have a pretty good understanding of the attitudes around campus.  Now what we see in all these student interviews nowadays, would you say that’s reflective of the generation at large?
-The War Is Over	05-29-2024		PHIL			I think I see where you’re going with this, after coming out against the war today.
-The War Is Over	05-29-2024		RFK			Sure, that’s part of it.
-The War Is Over	05-29-2024		PHIL			I think the students are paying close attention to what you stand for.  What I mean is it’s not just about the parties, but where you as individuals stand regarding civil rights and the war.  And I think what do you did today was a good first step.
-The War Is Over	05-29-2024		RFK			First step?  Sounds like I’ve got my work cut out for me!
-The War Is Over	05-29-2024		JACK NEWFIELD			I think what Phil means is-
-The War Is Over	05-29-2024		RFK			No, I understand.
-The War Is Over	05-29-2024		RFK		(turns to Phil)		I’ve heard a few of your songs, you know.  “Power and the Glory”, that’s one of yours, isn’t it?
-The War Is Over	05-29-2024		PHIL			Sure is!
-The War Is Over	05-29-2024		RFK			That’s a very powerful song.
-The War Is Over	05-29-2024		RFK			
-The War Is Over	05-29-2024		PHIL			Thank you!
-The War Is Over	05-29-2024		PHIL			
-The War Is Over	05-29-2024		RFK			Are you working on any new material?
-The War Is Over	05-29-2024		PHIL			Actually I am, and it’s going to be a real departure from the past albums I’ve recorded-
-The War Is Over	05-29-2024		JACK NEWFIELD			Why don’t you sing him one of your new songs?  What about “Crucifixion”?  That’s a great one.
-The War Is Over	05-29-2024		PHIL			No, I can’t, I didn’t even bring my guitar with me.
-The War Is Over	05-29-2024		JACK NEWFIELD			That’s fine, you can just sing it.
-The War Is Over	05-29-2024		PHIL			You want me to sing it a cappella?  On a plane?
-The War Is Over	05-29-2024		JACK NEWFIELD			Yeah, why not!
-The War Is Over	05-29-2024		PHIL			I’m glad my critics aren’t on board!
-The War Is Over	05-29-2024		RFK			Well, I promise not to write a scathing review.
-The War Is Over	05-29-2024		PHIL			Fair enough.  All right.  Now, I usually introduce these songs to give some background, but I’ll go right into this one.
-The War Is Over	05-29-2024		PHIL	(singing)		And the night comes again to the circle studded sky / The stars settle slowly, in loneliness they lie / 'Till the universe explodes as a falling star is raised / Planets are paralyzed, mountains are amazed / But they all glow brighter from the brilliance of the blaze / With the speed of insanity, then he dies.
-The War Is Over	05-29-2024		PHIL			
-The War Is Over	05-29-2024		PHIL		(singing)		In the green fields a turning, a baby is born / His cries crease the wind and mingle with the morn / An assault upon the order, the changing of the guard / Chosen for a challenge that is hopelessly hard / And the only single sound is the sighing of the stars / But to the silence and distance they are sworn
-The War Is Over	05-29-2024		PHIL		(singing)		Then his message gathers meaning and it spreads across the land / The rewarding of his pain is the following of the man / But ignorance is everywhere and people have their way / Success is an enemy to the losers of the day / In the shadows of the churches, who knows what they pray / For blood is the language of the band.
-The War Is Over	05-29-2024		MR. KUNSTLER			Did there come a time, Mr. Ochs, when you came to Chicago in 1968?
-The War Is Over	05-29-2024		PHIL			I came campaigning for Eugene McCarthy on M-Day, which I believe was August 15, at the Lindy Opera House, I believe.
-The War Is Over	05-29-2024		MR. KUNSTLER			After you arrived in Chicago did you have any discussion with Jerry?
-The War Is Over	05-29-2024		PHIL			Yes, I did.  We discussed the nomination of a pig for President.
-The War Is Over	05-29-2024		MR. KUNSTLER			Would you state what you said and what Jerry said.
-The War Is Over	05-29-2024		PHIL			We discussed the details.  We discussed going out to the countryside around Chicago and buying a pig from a farmer and bringing him into the city for the purposes of his nominating speech.
-The War Is Over	05-29-2024		MR. KUNSTLER			Did you have any role yourself in that?
-The War Is Over	05-29-2024		PHIL			Yes, I helped select the pig, and I paid for him.
-The War Is Over	05-29-2024		MR. KUNSTLER			Now, did you find a pig at once when you went out?
-The War Is Over	05-29-2024		PHIL			No, it was very difficult.  We stopped at several farms and asked where the pigs were.
-The War Is Over	05-29-2024		MR. KUNSTLER			None of the farmers referred you to the police station, did they?
-The War Is Over	05-29-2024		PHIL			No.
-The War Is Over	05-29-2024		MR. FORAN			Objection.
-The War Is Over	05-29-2024		JUDGE HOFFMAN			I sustain the objection.
-The War Is Over	05-29-2024		MR. KUNSTLER			Mr. Ochs, can you describe the pig which was finally bought?
-The War Is Over	05-29-2024		MR. FORAN			Objection.
-The War Is Over	05-29-2024		JUDGE HOFFMAN			I sustain the objection.
-The War Is Over	05-29-2024		MR. KUNSTLER			Would you state what, if anything, happened to the pig?
-The War Is Over	05-29-2024		PHIL			The pig was arrested with seven people.
-The War Is Over	05-29-2024		DAVID			It really warms my heart to see students on this continent fighting for the same values as us in the U.S.  As they say around here: words divide us; action unites us.
-The War Is Over	05-29-2024		DAVID			
-The War Is Over	05-29-2024		DAVID			Now I’d like to introduce our next guest, renowned singer-songwriter and dedicated activist Phil Ochs!
-The War Is Over	05-29-2024		PHIL			Thanks David, and thank you all for inviting us to your wonderful rally.  You’re probably not familiar with most of my songs, but I think you’ll catch on rather quickly.  This first one is about compassion for your fellow man, a song you may have heard sung by miss Joan Baez.
-The War Is Over	05-29-2024		PHIL		(singing)		Show me the prison, show me the jail.
-The War Is Over	05-29-2024		PHIL	(singing)		Show me the prisoner whose-
-The War Is Over	05-29-2024		DAVID			Phil, get off the stage!
-The War Is Over	05-29-2024		PHIL			Wait til Rubin hears about this. He’ll be incredibly jealous that he didn’t come with me.
-The War Is Over	05-29-2024		STUDENT	(in Spanish to other students)		Hold your fire!  Hold your fire!
-The War Is Over	05-29-2024		PHIL			What’s going on now?  I can’t tell what they’re saying.
-The War Is Over	05-29-2024		DAVID			I think they’re negotiating.
-The War Is Over	05-29-2024		PHIL			I’m going to get a cigar.
-The War Is Over	05-29-2024		DAVID			Phil, you’ll get killed if you go out there.
-The War Is Over	05-29-2024		PHIL			A Cuban cigar is worth dying for.
-The War Is Over	05-29-2024		PHIL			Comfort in the middle of anarchy.
-The War Is Over	05-29-2024		STUDENT	(to Phil and David)		Ok, we came to an agreement with the police.  You should be able to leave now.
-The War Is Over	05-29-2024		PHIL			That’s too bad, I was hoping to finish my set.
-The War Is Over	05-29-2024		DAVID			That’s not funny, Phil.
-The War Is Over	05-29-2024		POLICEMAN 1	(in Spanish)		They’re Americans.
-The War Is Over	05-29-2024		POLICEMAN 2	(in Spanish)		Don’t be fooled.  We had found Cubans using false passports before.  Look at the cigars.  Cuff them.
-The War Is Over	05-29-2024		PHIL			Wait a minute, we’re Americans!  Ask around, I’m a well-known singer and I can prove it.  I’ve released several albums, what are you doing?
-The War Is Over	05-29-2024		DAVID	(speaking over Phil)		Please, we are not Cubans, we’re Americans, we’re guests of the university.
-The War Is Over	05-29-2024		PHIL			Hey, it’s bad enough to be in here, but do you have to play that horrible excuse for rock n’ roll?
-The War Is Over	05-29-2024		PHIL			What the hell happened?
-The War Is Over	05-29-2024		DAVID			Some rough interrogation techniques.  So I talked with some of the other prisoners last night, some of them know English.   They’re mostly here for political reasons, and they’ve been here a long time.
-The War Is Over	05-29-2024		PHIL			Oh god, don’t tell me that.  But they don’t have American passports.  You’d think that would help us.
-The War Is Over	05-29-2024		DAVID			It still might.  The guards keep asking me the same questions, I think they’re finally realizing we’re not Cubans.  Sounds like deporting us is on the table, as long as it’s not Bolivia.
-The War Is Over	05-29-2024		PHIL			What’s wrong with Bolivia?
-The War Is Over	05-29-2024		DAVID			Apparently the prisoners who get sent there have a bad habit of disappearing without a trace.
-The War Is Over	05-29-2024		GUARD			Come.
-The War Is Over	05-29-2024		GUARD			We are taking you to the airport, where you fly to Bolivia.  From there you go your own way.
-The War Is Over	05-29-2024		DAVID	(whispering)		We’ve got to have a plan, because this could be it.  We can’t go to Bolivia.
-The War Is Over	05-29-2024		PHIL	(whispering)		Okay, here’s what I’m thinking.  Once we get to the airport, I’ll create a diversion.  And you’ll sneak away and get us tickets to Peru.  You still have your American Express card?
-The War Is Over	05-29-2024		DAVID			And what do we do about this?  Once they see the handcuffs they’ll know not to issue the tickets.
-The War Is Over	05-29-2024		PHIL			Just hide them in your sleeves, you’ll be fine.
-The War Is Over	05-29-2024		PHIL			Help!  We’re being kidnapped.  We’re going to be killed by these fascists.  Please.  We’re innocent.
-The War Is Over	05-29-2024		GUARD	(in Spanish)		Pay no attention to this man, he is a dangerous criminal and an enemy of the state.
-The War Is Over	05-29-2024		DAVID			Buenos dias, when is your next flight to Lima?
-The War Is Over	05-29-2024		GUARD	(to Braniff worker in Spanish)		Stop issuing that ticket.  This man is in our custody.
-The War Is Over	05-29-2024		WORKER	(to David)		This man says you are under arrest.  You can’t leave.
-The War Is Over	05-29-2024		DAVID			Look, I’m an American citizen and you’re an American carrier.
-The War Is Over	05-29-2024		DAVID		(pounding on desk)		Just give me the goddamn tickets.
-The War Is Over	05-29-2024		WORKER	(motioning to guard)		I think you’d better go with him.
-The War Is Over	05-29-2024		EMBASSY OFFICIAL	(to guard)		If this man is an American you’re going to be in trouble for this.
-The War Is Over	05-29-2024		EMBASSY OFFICIAL	(to David)		Ok, the flight that you’re on is scheduled to go on to Lima after landing in La Paz.  So you can purchase tickets to continue there.
-The War Is Over	05-29-2024		DAVID	(to embassy official)		Thank you so much for your help.  No, really.
-The War Is Over	05-29-2024		PHIL			We did it!  Let’s get some drinks.
-The War Is Over	05-29-2024		PILOT			What did you two guys do, kill somebody?
-The War Is Over	05-29-2024		DAVID			Why?
-The War Is Over	05-29-2024		PILOT			Well, this official came on before we took off, and he wanted to make sure you both deplane in Bolivia.  There are police waiting for you.
-The War Is Over	05-29-2024		PHIL			No, listen, we’re not spies or anything.  I was invited to perform for students at the university.  But some of the students were wanted by the police, that’s all.  They’re just paranoid, this is all a misunderstanding.
-The War Is Over	05-29-2024		PILOT			Yeah, I’ve seen this before, this kind of stuff happens.  All right, when we land, just stay on board and you’ll be fine.  They can’t board an American carrier.
-The War Is Over	05-29-2024		PHIL			Thank you so much.
-The War Is Over	05-29-2024		PHIL	(whispering to himself)		We’re gonna be fine, we’re gonna be fine, we’re gonna be fine...
-The War Is Over	05-29-2024		PHIL			Was that it?  Are we safe?
-The War Is Over	05-29-2024		DAVID			I’m not celebrating until we we’re out of the airport in Peru.  No, I’m not celebrating until we’re all the way back home.
-The War Is Over	05-29-2024		DAVID		(whispering to himself)		
-The War Is Over	05-29-2024		DAVID			
-The War Is Over	05-29-2024		PHIL			We’re going to have to control the drinking.  You gotta help me stop on this trip.  All I want is one beer a day.
-The War Is Over	05-29-2024		DAVID			Wow, for you one beer a day is like total abstinence.
-The War Is Over	05-29-2024		PHIL			Very funny.
-The War Is Over	05-29-2024		DAVID			So what’s the plan once we get settled in?
-The War Is Over	05-29-2024		PHIL			I don’t know yet. I think I’ll tour around a little, but I want to take it easy first.  Hopefully something more relaxing than Uruguay.
-The War Is Over	05-29-2024		PHIL			Look at you eating all healthy.
-The War Is Over	05-29-2024		DAVID			I’m still full from that big breakfast.  What is that anyway, is that a hot dog inside of that thing?
-The War Is Over	05-29-2024		PHIL			It’s called a “smokie pasua”, it’s my new favorite.  They split the hot dog and put in something like pico de gallo, I think.  So this morning I spoke with Jerry Moss at A&M.  They’re gonna set me up with some studio time here.
-The War Is Over	05-29-2024		PHIL			
-The War Is Over	05-29-2024		DAVID			Studio time?  I though you were taking it easy.
-The War Is Over	05-29-2024		DAVID			
-The War Is Over	05-29-2024		PHIL			I was, I will.  But I’m loving all the languages and dialects here, I want to see if we can do some kind of collaboration.
-The War Is Over	05-29-2024		DAVID			What, like you’re going to put some new arrangements to some of your songs?
-The War Is Over	05-29-2024		PHIL			No, I mean new songs.  Something co-written.  Like maybe I’ll sing in a mixture of English and Swahili.
-The War Is Over	05-29-2024		DAVID			You singing in Swahili, this I gotta hear.
-The War Is Over	05-29-2024		PHIL AND MUSICIANS			Niko mchunga ngombe, Niko mchunga ngombe, Sasa Sasa, Twende mbele!
-The War Is Over	05-29-2024		PHIL AND MUSICIANS			Niko mchunga ngombe, Niko mchunga ngombe, Sasa Sasas, Twende mbele!
-The War Is Over	05-29-2024		PHIL AND MUSICIANS			Chakula haina taabu, Tunana mbuzi tunakula, Niko mchunga ngombe, Sasa Sasa, Twende mbele!
-The War Is Over	05-29-2024		DAVID			Phil, how do you feel?
-The War Is Over	05-29-2024		PHIL	(in a raspy voice)		What happened?  I thought I was on the beach.
-The War Is Over	05-29-2024		DAVID			People found you lying there, it looks like you were mugged.
-The War Is Over	05-29-2024		PHIL			Oh right, some people jumped me-
-The War Is Over	05-29-2024		PHIL		(lets out a painful cough)		Why can’t I talk?
-The War Is Over	05-29-2024		DAVID			The doctor said your vocal chords had ruptured.  He thinks it will heal for the most part.
-The War Is Over	05-29-2024		PHIL			For the most part?  What does that mean?  This is my career!
-The War Is Over	05-29-2024		DAVID			Hey, try to relax.  You’re gonna need some time to heal.
-The War Is Over	05-29-2024		DAVID		(short pause)		Phil, there’s something else.  There was a coup in Chile.  Allende’s dead.
-The War Is Over	05-29-2024		PHIL			What?  Who did it, was it fascists?
-The War Is Over	05-29-2024		DAVID			Details are still coming out, but that’s what it looks like.  There’s more.
-The War Is Over	05-29-2024		SOLDIER	(in Chilean Spanish)		You’re that motherfucker son of a bitch Victor Jara, singer of the communist songs.  I’ll teach you, asshole, how to sing!
-The War Is Over	05-29-2024		OFFICER	(in Chilean Spanish)		Smoke it, asshole.
-The War Is Over	05-29-2024		VICTOR	(in Chilean Spanish)		I don’t smoke.
-The War Is Over	05-29-2024		OFFICER	(in Chilean Spanish)		I said smoke it, asshole!
-The War Is Over	05-29-2024		OFFICER			Try playing the guitar now, with your hands like that, you son of a bitch.
-The War Is Over	05-29-2024		SOLDIER	(laughing)		Go ahead, sing us a song!  You’re on stage, your audience is waiting!
-The War Is Over	05-29-2024		VICTOR	(singing “Venceremos“ in Spanish)		A new world in the making, It's there for the taking.  Santiago to Rio.  The moment is waiting-
-The War Is Over	05-29-2024		VICTOR	(continuing to sing)		The lost will be found, And named out aloud.  Photos carried high.  The lives they’ve denied.
-The War Is Over	05-29-2024		PHIL			Victor!
-The War Is Over	05-29-2024		DAVID			Aren’t you going to sleep?
-The War Is Over	05-29-2024		PHIL			I can’t.  Something’s gotta be done about this.  Listen, here’s what I’ve got so far.
-The War Is Over	05-29-2024		DAVID			Can’t this wait til tomorrow?
-The War Is Over	05-29-2024		PHIL			No, it can’t!  Listen, we’re gonna raise awareness.   We’ll put together a huge concert, set some of the most popular entertainers in the business.  And all the proceeds will go to helping the people in Chile.  We could record it and put that out as a live album.  Like what George Harrison did with Bangladesh.  This could be huge.
-The War Is Over	05-29-2024		PHIL			Are you Deni?
-The War Is Over	05-29-2024		DENI			Yes, are you Phil?
-The War Is Over	05-29-2024		PHIL			Last I checked.  Please have a seat.
-The War Is Over	05-29-2024		DENI			Arthur told me a lot about you, but he should’ve given me a picture.  Hi.
-The War Is Over	05-29-2024		PHIL			He said a few things about you too!  I think your experiences with film and organizing with be really helpful here.  So he told you about the concert.
-The War Is Over	05-29-2024		DENI			He did.  I didn’t know a whole lot about the recent events in Chile, but I’ve been reading through every Newsweek and Time I can find.
-The War Is Over	05-29-2024		PHIL			Ok, that’s a good start.  And that’s the thing, no one’s hearing much about this, and that’s what we’re going to change.  So I’m calling it “An Evening with Salvador Allende” and I need your help to run it.  I’ve already spoken to Seeger and Guthrie, and they’re both in.  I’ll keep at it on that front and get more singers on the bill.  Now I’ve also been in touch with someone I’d met in Chile before, his name is Claudio Benal, he’s a refugee living here, and he still has connections back in Chile.  He’s interested in helping out as well.
-The War Is Over	05-29-2024		DENI			Ok, that’s great.  I know a very accomplished organizer from the Women’s Strike for Peace, and I think she’d be great for this team.  Her name is Cora Weiss.
-The War Is Over	05-29-2024		DENI		(continuing to sing)		
-The War Is Over	05-29-2024		CORA			Friends of Chile, who am I speaking with?
-The War Is Over	05-29-2024		PHIL			Cora, it’s Phil.  I’m still at the Bottom Line, and Buffy Sainte-Marie’s done with her set.  I’m still waiting for her to come back out though, but I’m sure I can get her in the lineup.
-The War Is Over	05-29-2024		CORA			Do you think that will be enough to push Ron-
-The War Is Over	05-29-2024		PHIL			Fuck Ron!  We’re not pulling out.
-The War Is Over	05-29-2024		CORA			I didn’t say we were.  I’m just saying, as our promoter, we need to win back his confidence.  What if we pushed back the date to make it work for Joan Baez, that would definitely attract-
-The War Is Over	05-29-2024		PHIL			You leave the show to me, I’ll take care of the lineup, and the tickets will follow.
-The War Is Over	05-29-2024		PHIL			I gotta go, I see her now.
-The War Is Over	05-29-2024		PHIL			Buffy!  Buffy!
-The War Is Over	05-29-2024		BOB			I know that voice.
-The War Is Over	05-29-2024		BOB			What’s happening, man?
-The War Is Over	05-29-2024		PHIL			Bob!  I’ll tell you what’s happening.  I’m organizing a concert for Chile.  I was here to talk to Buffy about it, but I just missed her.  Hey, remember that song you wrote, where it said “It’s much cheaper down in South American towns / Where the miners work almost for nothing”?  Well how’d you like to work for nothing and sing that one song for this goddamn rally?
-The War Is Over	05-29-2024		BOB			I’m not sure Phil.  I don’t lend my name out to a lot of causes these days.  And I’m trying to keep a low profile around here.
-The War Is Over	05-29-2024		PHIL			And that’s why it would mean so much more if you were there!  Look, I’ll give you four numbers.  If you want to talk to me, you can reach me at any of those four telephone numbers.
-The War Is Over	05-29-2024		PHIL			
-The War Is Over	05-29-2024		PHIL			So what are you doing in town anyway?
-The War Is Over	05-29-2024		BOB			Taking painting lessons.
-The War Is Over	05-29-2024		PHIL	(laughs then pauses)		You know, I can’t really tell if you’re joking or not.
-The War Is Over	05-29-2024		BOB			Good!
-The War Is Over	05-29-2024		PHIL			...so Allende became the first democratically elected Marxist leader, and you bet that scared a lot of people...
-The War Is Over	05-29-2024		PHIL		(laughs then pauses)		
-The War Is Over	05-29-2024		PHIL			...I stand here, members of the National Congress, to urge you to take up the task of reconstructing the Chilean nation according to our dreams, a Chile in which all children begin life equally, with equal medical care, education, and nutrition. A Chile in which the creative ability of each man and woman is allowed to develop, not in competition with others, but in order to contribute to a better life for all...
-The War Is Over	05-29-2024		PHIL			
-The War Is Over	05-29-2024		PHIL			This is a live mic directly to the Pentagon.  I’ve never seen a dead mic.
-The War Is Over	05-29-2024		BRUCE MARTIN			I want to interview Train. Are you Train?
-The War Is Over	05-29-2024		PHIL			Yeah, I’m Train.  I own Nueva, um, I, I made a deal for Nueva Havana and gave it which, which belong the owner, the landlord is Che Guevara.
-The War Is Over	05-29-2024		BRUCE MARTIN			What happened to Phil Ochs?
-The War Is Over	05-29-2024		PHIL			All right, brief recap.  On the first day of summer 1975, Phil Ochs was murdered in the Chelsea Hotel by John Train, who is now speaking.  I killed Phil Ochs.  The reason I killed him was he was some kind of genius but he drank too much and was becoming a boring old fart.  For the good of societies, public and secret, he needed to be gotten rid of.
-The War Is Over	05-29-2024		A&M SECRETARY			Sir?  There’s a man in the lobby wielding a sword.
-The War Is Over	05-29-2024		A&M EXECUTIVE			Oh goodness.  How did he get inside?
-The War Is Over	05-29-2024		A&M SECRETARY			I think it’s Phil Ochs!
-The War Is Over	05-29-2024		PHIL			-and I’m not leaving until I get my appointment with-
-The War Is Over	05-29-2024		A&M EXECUTIVE			Phil!  What are you-
-The War Is Over	05-29-2024		PHIL			I swear if someone calls me that again I will cut them open like a goddamned fish!  You’re speaking with John Train on Phil’s behalf.  My client demands to be released from any remaining contractural obligations with A&M Records. If he doesn’t-
-The War Is Over	05-29-2024		A&M EXECUTIVE			Fine!  Consider it done!  Now get the hell out of here.
-The War Is Over	05-29-2024		PHIL			Well that was easy.  (to others in lobby)  See, that’s all I was asking!
-The War Is Over	05-29-2024		PHIL			
-The War Is Over	05-29-2024		SONNY			Phil?
-The War Is Over	05-29-2024		PHIL			Come in.
-The War Is Over	05-29-2024		SONNY			Phil, you didn’t come down for breakfast, did you want some?
-The War Is Over	05-29-2024		PHIL			No, I’m good.
-The War Is Over	05-29-2024		SONNY			All right, well help yourself if you change your mind.
-The War Is Over	05-29-2024		PHIL			Thanks.
+The War Is Over	07-14-2024		GERTRUDE OCHS			Jack.
+The War Is Over	07-14-2024		GERTRUDE OCHS			Jack honey.
+The War Is Over	07-14-2024		JACK OCHS			Mmmph.
+The War Is Over	07-14-2024		GERTRUDE OCHS			You haven’t moved in over an hour.  Why don’t you take a walk outside, isn’t that what the doctor suggested?
+The War Is Over	07-14-2024		JACK OCHS			No!... Sorry dear, I’ll be fine.
+The War Is Over	07-14-2024		GERTRUDE OCHS			Can I make you come tea? Or-
+The War Is Over	07-14-2024		JACK OCHS			No no, I just need to be left alone, that’s all.
+The War Is Over	07-14-2024		GERTRUDE OCHS			All right, dear.  I’m trying.
+The War Is Over	07-14-2024		GERTRUDE OCHS			Boys, why don’t you go see a movie.
+The War Is Over	07-14-2024		GERTRUDE OCHS		(hands money)		Here you go Philip, just be back by dinner, okay dear?
+The War Is Over	07-14-2024		PHIL			All right, thanks Mom.
+The War Is Over	07-14-2024		MICHAEL			You think they have anything new this time?
+The War Is Over	07-14-2024		PHIL			Nah, this one never plays the new stuff.
+The War Is Over	07-14-2024		MICHAEL			Ooh, maybe they’ll have King Kong again!
+The War Is Over	07-14-2024		PHIL			Forget it Michael, I’m tired of that one.
+The War Is Over	07-14-2024		MICHAEL			Not another John Wayne.
+The War Is Over	07-14-2024		PHIL			C’mon, this’ll be great!  Let’s do it.
+The War Is Over	07-14-2024		MICHAEL			You think they’re all great.
+The War Is Over	07-14-2024		EDITOR			Well?
+The War Is Over	07-14-2024		PHIL			Well what?  I can continue writing for the Lantern, and keep putting out my own newspaper.  I have enough material for both.
+The War Is Over	07-14-2024		EDITOR			That’s fine, but-
+The War Is Over	07-14-2024		PHIL			And I’m only doing this because you’re censoring me.
+The War Is Over	07-14-2024		EDITOR			Easy there.  As editor-in-chief, I have to decide what will fit into our papers, it’s as simple as that.
+The War Is Over	07-14-2024		PHIL			And-
+The War Is Over	07-14-2024		EDITOR			And what you write isn’t always fit to print.
+The War Is Over	07-14-2024		PHIL			If you think my research-
+The War Is Over	07-14-2024		EDITOR			Come on Phil, it’s not that.  It’s the editorializing.  It’s the blatant side taking.  Like this last article you submitted on the Cuban revolution.  You’re making Castro out to be the good guy in some movie.
+The War Is Over	07-14-2024		PHIL			He is the good guy.  I mean, put yourself in their shoes.  If your whole life was spent-
+The War Is Over	07-14-2024		EDITOR			I’m not going to argue with you on this.  You have to think about the audience.
+The War Is Over	07-14-2024		PHIL			See, that’s where you’re wrong.  If we just pander to the audience, what service are we providing to society?  We might as well not exist.
+The War Is Over	07-14-2024		EDITOR			Without our funding, we won’t exist.  And what do you think will happen to our funding if we keep-
+The War Is Over	07-14-2024		PHIL			Once I become editor-in-chief-
+The War Is Over	07-14-2024		EDITOR			If ... you become editor-in-chief, and that’s a big if.
+The War Is Over	07-14-2024		PHIL			We’ll see about that.
+The War Is Over	07-14-2024		MR. GLOVER			Phil, I understand you’ve started your own paper on campus, that sounds like quite the undertaking.
+The War Is Over	07-14-2024		PHIL			Word travels fast, Mr. Glover.  I just have a lot more to write than what can fit in the Lantern.  Thanks again for lending me those history books, by the way.
+The War Is Over	07-14-2024		MR. GLOVER			Oh they’re history books now, huh.  I guess I’m that old.
+The War Is Over	07-14-2024		MR. GLOVER			
+The War Is Over	07-14-2024		PHIL			Oh no, I didn’t mean-
+The War Is Over	07-14-2024		MR. GLOVER	(laughing)		It’s all right.  Someday it’ll be your turn to be the old sage.  So Jim says you’re moving out of the boarding house?
+The War Is Over	07-14-2024		PHIL			Yeah, I need to be closer to the action, plus the other journalists are mostly at Steeb Hall.  It won’t be as homey, but at least Jim’s records won’t be strewn everywhere.
+The War Is Over	07-14-2024		JIM			Hey, you never complained!  I thought you liked my records.
+The War Is Over	07-14-2024		PHIL			I’m just kidding around.  Now I have to get my own copies of Woody Guthrie.  And you’ll have to get your own copies of Elvis.
+The War Is Over	07-14-2024		JIM			Sure I will.
+The War Is Over	07-14-2024		JIM			I still can’t believe Kennedy’s gonna win the nomination.  I thought for sure that Humphrey would get it.
+The War Is Over	07-14-2024		PHIL			Well, I called it, didn’t I.  We should’ve made it interesting.
+The War Is Over	07-14-2024		JIM			You know we still can.  He doesn’t stand a chance against Nixon in the fall.  He’s got no experience.
+The War Is Over	07-14-2024		PHIL			All right, you’re on.  I’ll put fifty dollars on it.
+The War Is Over	07-14-2024		JIM			You don’t even have fifty dollars.
+The War Is Over	07-14-2024		PHIL			I don’t need it, ‘cause Kennedy’s gonna win.  And when he does, I get your guitar.
+The War Is Over	07-14-2024		JIM			Ok, you’ve got yourself a deal.
+The War Is Over	07-14-2024		PHIL			I don’t know what to do.  Alice is four months pregnant and she wants me to marry her, but I don’t think I want to marry her.
+The War Is Over	07-14-2024		SONNY			Look, I was just talking to yer yesterday.  She wants to have the baby, but she won’t do it without being married.  I think you owe her at least that much.
+The War Is Over	07-14-2024		PHIL			I don’t know, I need more time to think about it.
+The War Is Over	07-14-2024		SONNY			What’s there to think about?  What the hell’s the big deal?  I mean, it’s not the rest of your life.  All you’re doing is giving the baby a legitimate name.  If it works out, fine.  If it doesn’t, so what?  You can always get divorced.  At least she’ll have the baby.  You could at least do that much for her.
+The War Is Over	07-14-2024		PHIL			Maybe divorce wasn’t a big deal for you, but that doesn’t hold for everyone... Sorry. Let me give it some more thought, okay?
+The War Is Over	07-14-2024		PHIL			Hello?
+The War Is Over	07-14-2024		SONNY			Hey, it’s Sonny.
+The War Is Over	07-14-2024		PHIL			Hey, listen, if this is about Alice again, I still need a week to-
+The War Is Over	07-14-2024		SONNY			You don’t have a week to think about it.  You have twenty-four hours.
+The War Is Over	07-14-2024		PHIL			Why?
+The War Is Over	07-14-2024		SONNY			Phil, your father just dropped dead.  They’re bringing his body to New York.  The funeral is tomorrow and Ma’s going to be there.  You better decide what you’re going to do right now.
+The War Is Over	07-14-2024		PHIL			Why do I have to be there?  What’s the difference if I’m there or not?
+The War Is Over	07-14-2024		SONNY			Phil, this is your father.  Regardless of the feeling you have or don’t have, you must be at the funeral, and it’s tomorrow.  So you get your ass out here, and you make your decision by tomorrow, because Ma’s going to be here and you’re going to have to tell her.
+The War Is Over	07-14-2024		PHIL			Ma, I have something to tell you.
+The War Is Over	07-14-2024		GERTRUDE OCHS			What?
+The War Is Over	07-14-2024		PHIL			Alice and I are getting married.
+The War Is Over	07-14-2024		GERTRUDE OCHS			Why?
+The War Is Over	07-14-2024		PHIL			Because Alice is pregnant
+The War Is Over	07-14-2024		GERTRUDE OCHS			...Why?
+The War Is Over	07-14-2024		ALICE			They’re here.
+The War Is Over	07-14-2024		PHIL			Will you get that?
+The War Is Over	07-14-2024		SONNY			Hi, we finally made it!
+The War Is Over	07-14-2024		SONNY		(to baby)		Hi Meegan!
+The War Is Over	07-14-2024		ALICE			Phil, are you going to say hello to your mother and sister?
+The War Is Over	07-14-2024		PHIL	(without looking up from his guitar)		Hey.
+The War Is Over	07-14-2024		ALICE	(shakes her head to the guests)		Please have a seat.  Can I get you some coffee?
+The War Is Over	07-14-2024		GERTRUDE OCHS			That would be great, but here, let me help.
+The War Is Over	07-14-2024		SONNY			So, how are things?
+The War Is Over	07-14-2024		ALICE			Things are all right.  Lots of gigs, as usual.  Phil’s heading out to Rhode Island next week, for this big folk festival.
+The War Is Over	07-14-2024		PHIL	(without looking up)		Newport.
+The War Is Over	07-14-2024		ALICE			Glad you could join the conversation.
+The War Is Over	07-14-2024		SONNY			All right Phil, what exactly are you doing that’s more important than joining us?
+The War Is Over	07-14-2024		PHIL			I’m playing the greatest song I’ll ever write.
+The War Is Over	07-14-2024		SONNY			Well then, sing it.  What are the words?
+The War Is Over	07-14-2024		PHIL			I haven’t written them yet.
+The War Is Over	07-14-2024		FRIEND			Hey Phil, are you ok?
+The War Is Over	07-14-2024		PHIL			I’m not sure.  (grimacing) Argh, I think I’m having a migraine.  I’d better lie down for a bit.
+The War Is Over	07-14-2024		FRIEND			Feeling any better?
+The War Is Over	07-14-2024		PHIL			Not really... oh man, my heart’s racing, feels like I’m dying...
+The War Is Over	07-14-2024		FRIEND			Hey John, let’s pull off when we get to Milford, I’ll bet there’s a hospital there.
+The War Is Over	07-14-2024		PHIL			No!  I can’t miss the festival.  And I don’t want you guys to miss it either.
+The War Is Over	07-14-2024		FRIEND			Would you rather die instead?
+The War Is Over	07-14-2024		PHIL			Maybe...
+The War Is Over	07-14-2024		FRIEND			So what happened?  Are you feeling better?
+The War Is Over	07-14-2024		PHIL			Yeah, the doctor gave me something for the headaches, plus this Valium.  But I’d rather not take it.
+The War Is Over	07-14-2024		FRIEND			Well give it up then, man!  I could use some later!
+The War Is Over	07-14-2024		PETE SEEGER			I don’t want to deny the next singer at least his two songs.  And you’ll wish when you heard ‘em that there’s a lot more time for him too.  It’s Phil Ochs.
+The War Is Over	07-14-2024		PHIL			(mumbling)
+The War Is Over	07-14-2024		PHIL		(without looking up)		Thank you.
+The War Is Over	07-14-2024		PHIL			
+The War Is Over	07-14-2024		PHIL			Well I think whenever there’s a deep tragedy, there’s also a present, um, something of the ridiculous, which is also true about immigration, so um, I’m sure you all remember a little town called Birmingham.  So I’d like to do you a song now, called “Talking Birmingham Jam”.
+The War Is Over	07-14-2024		PHIL			(in talking blues style)
+The War Is Over	07-14-2024		PHIL			Walking down to Birmingham...
+The War Is Over	07-14-2024		PHIL			Thanks so much.
+The War Is Over	07-14-2024		PHIL			I think Seeger’s coming around, Bob.  Or he just couldn’t find an ax this time.
+The War Is Over	07-14-2024		DAVID BLUE			Man, what a great show though.  So where should we go?
+The War Is Over	07-14-2024		BOB			Let’s go uptown, I’ve got a limo coming here any minute.  But first, let me play you that song I was talking about.  This is the one I’ve been trying to do for years.
+The War Is Over	07-14-2024		PHIL			What’s it called?
+The War Is Over	07-14-2024		BOB			“Can You Please Crawl Out Your Window?”
+The War Is Over	07-14-2024		PHIL	(plays a chord, sings in talking blues style)		The newest sensation about defenestration!
+The War Is Over	07-14-2024		BOB			Hey cut it out, this is serious.
+The War Is Over	07-14-2024		BOB		(singing)		He sits in your room, his tomb, with a fist full of tacks Preoccupied with his vengeance Cursing the dead that can't answer him back You know that he has no intentions Of looking your way, unless it's to say That he needs you to test his inventions Hey, crawl out your window Come on, don't say it will ruin you.
+The War Is Over	07-14-2024		BOB			Come on, don't say he will haunt you. You can go back to him any time you want to.
+The War Is Over	07-14-2024		DAVID BLUE			That’s fantastic man, it’s like peeling an onion, there’s a lot going on in the song.
+The War Is Over	07-14-2024		BOB			Ochs, what about you?  What do you think?
+The War Is Over	07-14-2024		PHIL			It’s okay.
+The War Is Over	07-14-2024		BOB			What do you mean?  Listen to it again.
+The War Is Over	07-14-2024		PHIL			Hold on, the limo’s here.
+The War Is Over	07-14-2024		BOB			He can wait.
+The War Is Over	07-14-2024		PHIL			Look, I don’t think hearing it again will change anything.  I’m saying it’s ok, but it’s not going to be a hit.
+The War Is Over	07-14-2024		BOB	(Gets up quickly)		You’re crazy, man!  It’s a great song.  You only know protest, that’s all.
+The War Is Over	07-14-2024		DAVID BLUE	(Gets up)		Hey guys, let’s go enjoy ourselves.
+The War Is Over	07-14-2024		DAVID BLUE			Phil, I think once you hear it in a rock format, it’ll really come together.  But I think it already stands on its own-
+The War Is Over	07-14-2024		BOB			I’m done talking about it.
+The War Is Over	07-14-2024		BOB			Actually you know what-
+The War Is Over	07-14-2024		BOB		(motions to driver)		Hey!  Can you pull over for a minute?
+The War Is Over	07-14-2024		DAVID BLUE			What’s going on?
+The War Is Over	07-14-2024		BOB	(points at Phil)		You’re getting out.
+The War Is Over	07-14-2024		PHIL	(laughs)		You’re kidding, right?
+The War Is Over	07-14-2024		BOB			Get out, Ochs.
+The War Is Over	07-14-2024		PHIL			Fine.  You wanted my opinion so I gave it to you, my mistake!
+The War Is Over	07-14-2024		BOB			You’re not a folk singer, you’re a journalist!
+The War Is Over	07-14-2024		BOB		(laughs)		
+The War Is Over	07-14-2024		RFK			It is we who live in abundance and send our young men out to die.  It is our chemicals that scorch the children, and our bombs that level the villages.  We are all participants.
+The War Is Over	07-14-2024		JACK NEWFIELD	(To Phil)		Wow, he’s really doing this.
+The War Is Over	07-14-2024		PHIL			I’m so glad you invited me.  Maybe I should get a gig like this, writing a profile on someone, getting paid to follow him around.
+The War Is Over	07-14-2024		JACK NEWFIELD			Looking for a career change?  By the way, we might even catch the same air shuttle back to New York with him.
+The War Is Over	07-14-2024		RFK			Hey, is it true that Bob Dylan changed his name to boost his career?
+The War Is Over	07-14-2024		PHIL			Sure is.  His real last name is Zimmerman.
+The War Is Over	07-14-2024		RFK			Do you think it would help if I changed mine?
+The War Is Over	07-14-2024		RFK			I understand you’ve spent a lot of time on college grounds as part of your touring.
+The War Is Over	07-14-2024		PHIL			I have.  In a way, it’s like I never dropped out.  I just started playing instead of taking classes.
+The War Is Over	07-14-2024		RFK			I’ll bet you have a pretty good understanding of the attitudes around campus.  Now what we see in all these student interviews nowadays, would you say that’s reflective of the generation at large?
+The War Is Over	07-14-2024		PHIL			I think I see where you’re going with this, after coming out against the war today.
+The War Is Over	07-14-2024		RFK			Sure, that’s part of it.
+The War Is Over	07-14-2024		PHIL			I think the students are paying close attention to what you stand for.  What I mean is it’s not just about the parties, but where you as individuals stand regarding civil rights and the war.  And I think what do you did today was a good first step.
+The War Is Over	07-14-2024		RFK			First step?  Sounds like I’ve got my work cut out for me!
+The War Is Over	07-14-2024		JACK NEWFIELD			I think what Phil means is-
+The War Is Over	07-14-2024		RFK			No, I understand.
+The War Is Over	07-14-2024		RFK		(turns to Phil)		I’ve heard a few of your songs, you know.  “Power and the Glory”, that’s one of yours, isn’t it?
+The War Is Over	07-14-2024		PHIL			Sure is!
+The War Is Over	07-14-2024		RFK			That’s a very powerful song.
+The War Is Over	07-14-2024		RFK			
+The War Is Over	07-14-2024		PHIL			Thank you!
+The War Is Over	07-14-2024		PHIL			
+The War Is Over	07-14-2024		RFK			Are you working on any new material?
+The War Is Over	07-14-2024		PHIL			Actually I am, and it’s going to be a real departure from the past albums I’ve recorded-
+The War Is Over	07-14-2024		JACK NEWFIELD			Why don’t you sing him one of your new songs?  What about “Crucifixion”?  That’s a great one.
+The War Is Over	07-14-2024		PHIL			No, I can’t, I didn’t even bring my guitar with me.
+The War Is Over	07-14-2024		JACK NEWFIELD			That’s fine, you can just sing it.
+The War Is Over	07-14-2024		PHIL			You want me to sing it a cappella?  On a plane?
+The War Is Over	07-14-2024		JACK NEWFIELD			Yeah, why not!
+The War Is Over	07-14-2024		PHIL			I’m glad my critics aren’t on board!
+The War Is Over	07-14-2024		RFK			Well, I promise not to write a scathing review.
+The War Is Over	07-14-2024		PHIL			Fair enough.  All right.  Now, I usually introduce these songs to give some background, but I’ll go right into this one.
+The War Is Over	07-14-2024		PHIL	(singing)		And the night comes again to the circle studded sky / The stars settle slowly, in loneliness they lie / 'Till the universe explodes as a falling star is raised / Planets are paralyzed, mountains are amazed / But they all glow brighter from the brilliance of the blaze / With the speed of insanity, then he dies.
+The War Is Over	07-14-2024		PHIL			
+The War Is Over	07-14-2024		PHIL		(singing)		In the green fields a turning, a baby is born / His cries crease the wind and mingle with the morn / An assault upon the order, the changing of the guard / Chosen for a challenge that is hopelessly hard / And the only single sound is the sighing of the stars / But to the silence and distance they are sworn
+The War Is Over	07-14-2024		PHIL		(singing)		Then his message gathers meaning and it spreads across the land / The rewarding of his pain is the following of the man / But ignorance is everywhere and people have their way / Success is an enemy to the losers of the day / In the shadows of the churches, who knows what they pray / For blood is the language of the band.
+The War Is Over	07-14-2024		MR. KUNSTLER			Did there come a time, Mr. Ochs, when you came to Chicago in 1968?
+The War Is Over	07-14-2024		PHIL			I came campaigning for Eugene McCarthy on M-Day, which I believe was August 15, at the Lindy Opera House, I believe.
+The War Is Over	07-14-2024		MR. KUNSTLER			After you arrived in Chicago did you have any discussion with Jerry?
+The War Is Over	07-14-2024		PHIL			Yes, I did.  We discussed the nomination of a pig for President.
+The War Is Over	07-14-2024		MR. KUNSTLER			Would you state what you said and what Jerry said.
+The War Is Over	07-14-2024		PHIL			We discussed the details.  We discussed going out to the countryside around Chicago and buying a pig from a farmer and bringing him into the city for the purposes of his nominating speech.
+The War Is Over	07-14-2024		MR. KUNSTLER			Did you have any role yourself in that?
+The War Is Over	07-14-2024		PHIL			Yes, I helped select the pig, and I paid for him.
+The War Is Over	07-14-2024		MR. KUNSTLER			Now, did you find a pig at once when you went out?
+The War Is Over	07-14-2024		PHIL			No, it was very difficult.  We stopped at several farms and asked where the pigs were.
+The War Is Over	07-14-2024		MR. KUNSTLER			None of the farmers referred you to the police station, did they?
+The War Is Over	07-14-2024		PHIL			No.
+The War Is Over	07-14-2024		MR. FORAN			Objection.
+The War Is Over	07-14-2024		JUDGE HOFFMAN			I sustain the objection.
+The War Is Over	07-14-2024		MR. KUNSTLER			Mr. Ochs, can you describe the pig which was finally bought?
+The War Is Over	07-14-2024		MR. FORAN			Objection.
+The War Is Over	07-14-2024		JUDGE HOFFMAN			I sustain the objection.
+The War Is Over	07-14-2024		MR. KUNSTLER			Would you state what, if anything, happened to the pig?
+The War Is Over	07-14-2024		PHIL			The pig was arrested with seven people.
+The War Is Over	07-14-2024		DAVID			It really warms my heart to see students on this continent fighting for the same values as us in the U.S.  As they say around here: words divide us; action unites us.
+The War Is Over	07-14-2024		DAVID			
+The War Is Over	07-14-2024		DAVID			Now I’d like to introduce our next guest, renowned singer-songwriter and dedicated activist Phil Ochs!
+The War Is Over	07-14-2024		PHIL			Thanks David, and thank you all for inviting us to your wonderful rally.  You’re probably not familiar with most of my songs, but I think you’ll catch on rather quickly.  This first one is about compassion for your fellow man, a song you may have heard sung by miss Joan Baez.
+The War Is Over	07-14-2024		PHIL		(singing)		Show me the prison, show me the jail.
+The War Is Over	07-14-2024		PHIL	(singing)		Show me the prisoner whose-
+The War Is Over	07-14-2024		DAVID			Phil, get off the stage!
+The War Is Over	07-14-2024		PHIL			Wait til Rubin hears about this. He’ll be incredibly jealous that he didn’t come with me.
+The War Is Over	07-14-2024		STUDENT	(in Spanish to other students)		Hold your fire!  Hold your fire!
+The War Is Over	07-14-2024		PHIL			What’s going on now?  I can’t tell what they’re saying.
+The War Is Over	07-14-2024		DAVID			I think they’re negotiating.
+The War Is Over	07-14-2024		PHIL			I’m going to get a cigar.
+The War Is Over	07-14-2024		DAVID			Phil, you’ll get killed if you go out there.
+The War Is Over	07-14-2024		PHIL			A Cuban cigar is worth dying for.
+The War Is Over	07-14-2024		PHIL			Comfort in the middle of anarchy.
+The War Is Over	07-14-2024		STUDENT	(to Phil and David)		Ok, we came to an agreement with the police.  You should be able to leave now.
+The War Is Over	07-14-2024		PHIL			That’s too bad, I was hoping to finish my set.
+The War Is Over	07-14-2024		DAVID			That’s not funny, Phil.
+The War Is Over	07-14-2024		POLICEMAN 1	(in Spanish)		They’re Americans.
+The War Is Over	07-14-2024		POLICEMAN 2	(in Spanish)		Don’t be fooled.  We had found Cubans using false passports before.  Look at the cigars.  Cuff them.
+The War Is Over	07-14-2024		PHIL			Wait a minute, we’re Americans!  Ask around, I’m a well-known singer and I can prove it.  I’ve released several albums, what are you doing?
+The War Is Over	07-14-2024		DAVID	(speaking over Phil)		Please, we are not Cubans, we’re Americans, we’re guests of the university.
+The War Is Over	07-14-2024		PHIL			Hey, it’s bad enough to be in here, but do you have to play that horrible excuse for rock n’ roll?
+The War Is Over	07-14-2024		PHIL			What the hell happened?
+The War Is Over	07-14-2024		DAVID			Some rough interrogation techniques.  So I talked with some of the other prisoners last night, some of them know English.   They’re mostly here for political reasons, and they’ve been here a long time.
+The War Is Over	07-14-2024		PHIL			Oh god, don’t tell me that.  But they don’t have American passports.  You’d think that would help us.
+The War Is Over	07-14-2024		DAVID			It still might.  The guards keep asking me the same questions, I think they’re finally realizing we’re not Cubans.  Sounds like deporting us is on the table, as long as it’s not Bolivia.
+The War Is Over	07-14-2024		PHIL			What’s wrong with Bolivia?
+The War Is Over	07-14-2024		DAVID			Apparently the prisoners who get sent there have a bad habit of disappearing without a trace.
+The War Is Over	07-14-2024		GUARD			Come.
+The War Is Over	07-14-2024		GUARD			We are taking you to the airport, where you fly to Bolivia.  From there you go your own way.
+The War Is Over	07-14-2024		DAVID	(whispering)		We’ve got to have a plan, because this could be it.  We can’t go to Bolivia.
+The War Is Over	07-14-2024		PHIL	(whispering)		Okay, here’s what I’m thinking.  Once we get to the airport, I’ll create a diversion.  And you’ll sneak away and get us tickets to Peru.  You still have your American Express card?
+The War Is Over	07-14-2024		DAVID			And what do we do about this?  Once they see the handcuffs they’ll know not to issue the tickets.
+The War Is Over	07-14-2024		PHIL			Just hide them in your sleeves, you’ll be fine.
+The War Is Over	07-14-2024		PHIL			Help!  We’re being kidnapped.  We’re going to be killed by these fascists.  Please.  We’re innocent.
+The War Is Over	07-14-2024		GUARD	(in Spanish)		Pay no attention to this man, he is a dangerous criminal and an enemy of the state.
+The War Is Over	07-14-2024		DAVID			Buenos dias, when is your next flight to Lima?
+The War Is Over	07-14-2024		GUARD	(to Braniff worker in Spanish)		Stop issuing that ticket.  This man is in our custody.
+The War Is Over	07-14-2024		WORKER	(to David)		This man says you are under arrest.  You can’t leave.
+The War Is Over	07-14-2024		DAVID			Look, I’m an American citizen and you’re an American carrier.
+The War Is Over	07-14-2024		DAVID		(pounding on desk)		Just give me the goddamn tickets.
+The War Is Over	07-14-2024		WORKER	(motioning to guard)		I think you’d better go with him.
+The War Is Over	07-14-2024		EMBASSY OFFICIAL	(to guard)		If this man is an American you’re going to be in trouble for this.
+The War Is Over	07-14-2024		EMBASSY OFFICIAL	(to David)		Ok, the flight that you’re on is scheduled to go on to Lima after landing in La Paz.  So you can purchase tickets to continue there.
+The War Is Over	07-14-2024		DAVID	(to embassy official)		Thank you so much for your help.  No, really.
+The War Is Over	07-14-2024		PHIL			We did it!  Let’s get some drinks.
+The War Is Over	07-14-2024		PILOT			What did you two guys do, kill somebody?
+The War Is Over	07-14-2024		DAVID			Why?
+The War Is Over	07-14-2024		PILOT			Well, this official came on before we took off, and he wanted to make sure you both deplane in Bolivia.  There are police waiting for you.
+The War Is Over	07-14-2024		PHIL			No, listen, we’re not spies or anything.  I was invited to perform for students at the university.  But some of the students were wanted by the police, that’s all.  They’re just paranoid, this is all a misunderstanding.
+The War Is Over	07-14-2024		PILOT			Yeah, I’ve seen this before, this kind of stuff happens.  All right, when we land, just stay on board and you’ll be fine.  They can’t board an American carrier.
+The War Is Over	07-14-2024		PHIL			Thank you so much.
+The War Is Over	07-14-2024		PHIL	(whispering to himself)		We’re gonna be fine, we’re gonna be fine, we’re gonna be fine...
+The War Is Over	07-14-2024		PHIL			Was that it?  Are we safe?
+The War Is Over	07-14-2024		DAVID			I’m not celebrating until we’re out of the airport in Peru.  No, I’m not celebrating until we’re all the way back home.
+The War Is Over	07-14-2024		DAVID		(whispering to himself)		
+The War Is Over	07-14-2024		DAVID			
+The War Is Over	07-14-2024		PHIL			We’re going to have to control the drinking.  You gotta help me stop on this trip.  All I want is one beer a day.
+The War Is Over	07-14-2024		DAVID			Wow, for you one beer a day is like total abstinence.
+The War Is Over	07-14-2024		PHIL			Very funny.
+The War Is Over	07-14-2024		DAVID			So what’s the plan once we get settled in?
+The War Is Over	07-14-2024		PHIL			I don’t know yet. I think I’ll tour around a little, but I want to take it easy first.  Hopefully something more relaxing than Uruguay.
+The War Is Over	07-14-2024		PHIL			Look at you eating all healthy.
+The War Is Over	07-14-2024		DAVID			I’m still full from that big breakfast.  What is that anyway, is that a hot dog inside of that thing?
+The War Is Over	07-14-2024		PHIL			It’s called a “smokie pasua”, it’s my new favorite.  They split the hot dog and put in something like pico de gallo, I think.  So this morning I spoke with Jerry Moss at A&M.  They’re gonna set me up with some studio time here.
+The War Is Over	07-14-2024		PHIL			
+The War Is Over	07-14-2024		DAVID			Studio time?  I thought you were taking it easy.
+The War Is Over	07-14-2024		DAVID			
+The War Is Over	07-14-2024		PHIL			I was, I will.  But I’m loving all the languages and dialects here, I want to see if we can do some kind of collaboration.
+The War Is Over	07-14-2024		DAVID			What, like you’re going to put some new arrangements to some of your songs?
+The War Is Over	07-14-2024		PHIL			No, I mean new songs.  Something co-written.  Like maybe I’ll sing in a mixture of English and Swahili.
+The War Is Over	07-14-2024		DAVID			You singing in Swahili, this I gotta hear.
+The War Is Over	07-14-2024		PHIL AND MUSICIANS			Niko mchunga ngombe, Niko mchunga ngombe, Sasa Sasa, Twende mbele!
+The War Is Over	07-14-2024		PHIL AND MUSICIANS			Niko mchunga ngombe, Niko mchunga ngombe, Sasa Sasas, Twende mbele!
+The War Is Over	07-14-2024		PHIL AND MUSICIANS			Chakula haina taabu, Tunana mbuzi tunakula, Niko mchunga ngombe, Sasa Sasa, Twende mbele!
+The War Is Over	07-14-2024		DAVID			Phil, how do you feel?
+The War Is Over	07-14-2024		PHIL	(in a raspy voice)		What happened?  I thought I was on the beach.
+The War Is Over	07-14-2024		DAVID			People found you lying there, it looks like you were mugged.
+The War Is Over	07-14-2024		PHIL			Oh right, some people jumped me-
+The War Is Over	07-14-2024		PHIL		(lets out a painful cough)		Why does it hurt when I talk?
+The War Is Over	07-14-2024		DAVID			The doctor said your vocal chords had ruptured.  He thinks it will heal for the most part.
+The War Is Over	07-14-2024		PHIL			For the most part?  What does that mean?  This is my career-
+The War Is Over	07-14-2024		DAVID			Hey, try to relax.  You’re gonna need some time to heal.
+The War Is Over	07-14-2024		DAVID		(short pause)		Phil, there’s something else.  There was a coup in Chile.  Allende’s dead.
+The War Is Over	07-14-2024		PHIL			What?  Who did it, was it fascists?
+The War Is Over	07-14-2024		DAVID			Details are still coming out, but that’s what it looks like.  There’s more.
+The War Is Over	07-14-2024		SOLDIER	(in Chilean Spanish)		You’re that motherfucker son of a bitch Victor Jara, singer of the communist songs.  I’ll teach you, asshole, how to sing!
+The War Is Over	07-14-2024		OFFICER	(in Chilean Spanish)		Smoke it, asshole.
+The War Is Over	07-14-2024		VICTOR	(in Chilean Spanish)		I don’t smoke.
+The War Is Over	07-14-2024		OFFICER	(in Chilean Spanish)		I said smoke it, asshole!
+The War Is Over	07-14-2024		OFFICER			Try playing the guitar now, with your hands like that, you son of a bitch.
+The War Is Over	07-14-2024		SOLDIER	(laughing)		Go ahead, sing us a song!  You’re on stage, your audience is waiting!
+The War Is Over	07-14-2024		VICTOR	(singing “Venceremos“ in Spanish)		A new world in the making, It's there for the taking.  Santiago to Rio.  The moment is waiting-
+The War Is Over	07-14-2024		VICTOR	(continuing to sing)		The lost will be found, And named out aloud.  Photos carried high.  The lives they’ve denied.
+The War Is Over	07-14-2024		PHIL			Victor!
+The War Is Over	07-14-2024		DAVID			Aren’t you going to sleep?
+The War Is Over	07-14-2024		PHIL			I can’t.  Something’s gotta be done about this.  Listen, here’s what I’ve got so far.
+The War Is Over	07-14-2024		DAVID			Can’t this wait til tomorrow?
+The War Is Over	07-14-2024		PHIL			No, it can’t!  Listen, we’re gonna raise awareness.   We’ll put together a huge concert, set some of the most popular entertainers in the business.  And all the proceeds will go to helping the people in Chile.  We could record it and put that out as a live album.  Like what George Harrison did with Bangladesh.  This could be huge.
+The War Is Over	07-14-2024		PHIL			Are you Deni?
+The War Is Over	07-14-2024		DENI			Yes, are you Phil?
+The War Is Over	07-14-2024		PHIL			Last I checked.  Please have a seat.
+The War Is Over	07-14-2024		DENI			Arthur told me a lot about you, but he should’ve given me a picture.  Hi.
+The War Is Over	07-14-2024		PHIL			He said a few things about you too!  I think what you’ve done with film and organizing with be really helpful here.  So he told you about the concert.
+The War Is Over	07-14-2024		DENI			He did.  I didn’t know a whole lot about what happened in Chile, so I’ve been reading through every Newsweek and Time I can find.
+The War Is Over	07-14-2024		PHIL			All right, that’s a good start.  And that’s the thing, no one’s hearing much about this, and that’s what we’re going to change.  So I’m calling it “An Evening with Salvador Allende” and I need your help to run it.  I’ve already spoken to Seeger and Guthrie, and they’re both in.  I’ll keep at it on that front and get more singers on the bill.  Now I’ve also been in touch with someone I’d met in Chile before, his name is Claudio Benal, he’s a refugee living here, and he still has connections back in Chile.  He’s interested in helping out as well.
+The War Is Over	07-14-2024		DENI			Ok, that’s great.  I know a very accomplished organizer from the Women’s Strike for Peace, and I think she’d be great for this team.  Her name is Cora Weiss.
+The War Is Over	07-14-2024		DENI		(continuing to sing)		
+The War Is Over	07-14-2024		CORA			Friends of Chile, who am I speaking with?
+The War Is Over	07-14-2024		PHIL			Cora, it’s Phil.  I’m still at the Bottom Line, and Buffy Sainte-Marie’s done with her set.  I’m still waiting for her to come back out though, but I’m sure I can get her in the lineup.
+The War Is Over	07-14-2024		CORA			Do you think that will be enough to push Ron-
+The War Is Over	07-14-2024		PHIL			Fuck Ron!  We’re not pulling out.
+The War Is Over	07-14-2024		CORA			I didn’t say we were.  I’m just saying, as our promoter, we need to win back his confidence.  What if we pushed back the date to make it work for Joan Baez, that would definitely attract-
+The War Is Over	07-14-2024		PHIL			You leave the show to me, I’ll take care of the lineup, and the tickets will follow.
+The War Is Over	07-14-2024		PHIL			I gotta go, I see her now.
+The War Is Over	07-14-2024		PHIL			Buffy!  Buffy!
+The War Is Over	07-14-2024		BOB			I know that voice.
+The War Is Over	07-14-2024		BOB			What’s happening, man?
+The War Is Over	07-14-2024		PHIL			Bob!  I’ll tell you what’s happening.  I’m organizing a concert for Chile.  I was here to talk to Buffy about it, but I just missed her.  Hey, remember that song you wrote, where it said “It’s much cheaper down in South American towns / Where the miners work almost for nothing”?  Well how’d you like to work for nothing and sing that one song for this goddamn rally?
+The War Is Over	07-14-2024		BOB			I’m not sure Phil.  I don’t lend my name out to a lot of causes these days.  And I’m trying to keep a low profile around here.
+The War Is Over	07-14-2024		PHIL			And that’s why it would mean so much more if you were there!  Look, I’ll give you four numbers.  If you want to talk to me, you can reach me at any of those four telephone numbers.
+The War Is Over	07-14-2024		PHIL			
+The War Is Over	07-14-2024		PHIL			So what are you doing in town anyway?
+The War Is Over	07-14-2024		BOB			Taking painting lessons.
+The War Is Over	07-14-2024		PHIL	(laughs then pauses)		You know, I can’t really tell if you’re joking or not.
+The War Is Over	07-14-2024		BOB			Good!
+The War Is Over	07-14-2024		PHIL			...so Allende became the first democratically elected Marxist leader, and you bet that scared a lot of people...
+The War Is Over	07-14-2024		PHIL		(laughs then pauses)		
+The War Is Over	07-14-2024		PHIL			...I stand here, members of the National Congress, to urge you to take up the task of reconstructing the Chilean nation according to our dreams, a Chile in which all children begin life equally, with equal medical care, education, and nutrition. A Chile in which the creative ability of each man and woman is allowed to develop, not in competition with others, but in order to contribute to a better life for all...
+The War Is Over	07-14-2024		PHIL			
+The War Is Over	07-14-2024		PHIL			This is a live mic directly to the Pentagon.  I’ve never seen a dead mic.
+The War Is Over	07-14-2024		BRUCE MARTIN			I want to interview Train. Are you Train?
+The War Is Over	07-14-2024		PHIL			Yeah, I’m Train.  I own Nueva, um, I, I made a deal for Nueva Havana and gave it which, which belong the owner, the landlord is Che Guevara.
+The War Is Over	07-14-2024		BRUCE MARTIN			What happened to Phil Ochs?
+The War Is Over	07-14-2024		PHIL			All right, brief recap.  On the first day of summer 1975, Phil Ochs was murdered in the Chelsea Hotel by John Train, who is now speaking.  I killed Phil Ochs.  The reason I killed him was he was some kind of genius but he drank too much and was becoming a boring old fart.  For the good of societies, public and secret, he needed to be gotten rid of.
+The War Is Over	07-14-2024		A&M SECRETARY			Sir?  There’s a man in the lobby wielding a sword.
+The War Is Over	07-14-2024		A&M EXECUTIVE			Oh goodness.  How did he get inside?
+The War Is Over	07-14-2024		A&M SECRETARY			I think it’s Phil Ochs!
+The War Is Over	07-14-2024		PHIL			-and I’m not leaving until I get my appointment with-
+The War Is Over	07-14-2024		A&M EXECUTIVE			Phil!  What are you-
+The War Is Over	07-14-2024		PHIL			I swear if someone calls me that again I- I‘ll cut them open like a goddamned fish!  You’re speaking with John Train on Phil’s behalf.  My client demands to be released from any remaining contractural obligations with A&M Records.  If he doesn’t-
+The War Is Over	07-14-2024		A&M EXECUTIVE			Fine!  Consider it done!  Now get the hell out of here.
+The War Is Over	07-14-2024		PHIL			Well that was easy.
+The War Is Over	07-14-2024		PHIL		(to others in lobby)		See, that’s all I was asking!
+The War Is Over	07-14-2024		PHIL			
+The War Is Over	07-14-2024		ALICE			Hello?
+The War Is Over	07-14-2024		PHIL			Hi Alice, it’s... me.
+The War Is Over	07-14-2024		ALICE			Phil!  It’s been a while.
+The War Is Over	07-14-2024		PHIL			I know, it has.  By the way, I go by John Train now.
+The War Is Over	07-14-2024		ALICE			Okay...
+The War Is Over	07-14-2024		PHIL			But that’s not important.  Listen, I- I’m moving back to New York.  And I was wondering if it would be all right if I saw you and Meegan before I go.
+The War Is Over	07-14-2024		ALICE			Yes, of course.  Why don’t you come up and stay here?
+The War Is Over	07-14-2024		PHIL			That would be really nice, actually.
+The War Is Over	07-14-2024		SONNY			Phil?
+The War Is Over	07-14-2024		PHIL			Come in.
+The War Is Over	07-14-2024		SONNY			Phil, you didn’t come down for breakfast, did you want some?
+The War Is Over	07-14-2024		PHIL			No, I’m good.
+The War Is Over	07-14-2024		SONNY			All right, well help yourself if you change your mind.
+The War Is Over	07-14-2024		PHIL			Thanks.

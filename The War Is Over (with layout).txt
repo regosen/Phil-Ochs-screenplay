@@ -3,7 +3,10 @@
         Flashback 1
 
         Start zoomed in on WWII memorabilia, zoom out to Dad being out of it since WWII,
-        mother sends Phil and brother Michael out to movies, Phil mesmerized by John Wayne
+        mother sends Phil and brother Michael out to movies, Phil mesmerized by John Wayne.
+
+        TODO: consider starting with interview with John train, admitting he killed Phil Ochs.
+        Hide the fact that Train is Phil.  Then go back in time to life story.
 
 
 
@@ -156,9 +159,9 @@
                          the editorializing.  It's the
                          blatant side taking.  Like this
                          last article you submitted on the
-                         Cuban revolution.  You're making
-                         Castro out to be the good guy in
-                         some movie.
+                         Cuban revolution.
+                         You're making Castro out to be the
+                         good guy in some movie.
 
                                    PHIL
                          He is the good guy.  I mean, put
@@ -256,13 +259,14 @@
                INT. BOARDING HOUSE ROOM - NIGHT
 
                Jim and Phil is sitting on their respective beds.  Elvis and
-               John Wayne posters are on the wall by Phil's bed.  An
-               acoustic guitar is leaning against the wall by Jim's bed.
+               John Wayne posters are on the wall by Phil's bed.  Phil is
+               eyeing an acoustic guitar that leans against the wall by
+               Jim's bed.
 
                                    JIM
                          I still can't believe Kennedy's
-                         gonna win the nomination.  I
-                         thought for sure that Humphrey
+                         gonna win the nomination.
+                         I thought for sure that Humphrey
                          would get it.
 
                                    PHIL
@@ -365,8 +369,8 @@
                          a legitimate name.  If it works
                          out, fine.  If it doesn't, so what?
                          You can always get divorced.  At
-                         least she'll have the baby.  You
-                         could at least do that much for
+                         least she'll have the baby.
+                         You could at least do that much for
                          her.
 
                                    PHIL
@@ -417,11 +421,11 @@
                          Phil, this is your father.
                          Regardless of the feeling you have
                          or don't have, you must be at the
-                         funeral, and it's tomorrow.  So you
-                         get your ass out here, and you make
-                         your decision by tomorrow, because
-                         Ma's going to be here and you're
-                         going to have to tell her.
+                         funeral, and it's tomorrow.
+                         So you get your ass out here, and
+                         you make your decision by tomorrow,
+                         because Ma's going to be here and
+                         you're going to have to tell her.
 
 
 
@@ -635,9 +639,9 @@
                          ridiculous, which is also true
                          about immigration, so um, I'm sure
                          you all remember a little town
-                         called Birmingham.  So I'd like to
-                         do you a song now, called "Talking
-                         Birmingham Jam".
+                         called Birmingham.
+                         So I'd like to do you a song now,
+                         called "Talking Birmingham Jam".
 
                He begins to play his guitar.
 
@@ -1621,8 +1625,8 @@
                          Was that it?  Are we safe?
 
                                    DAVID
-                         I'm not celebrating until we we're
-                         out of the airport in Peru.
+                         I'm not celebrating until we're out
+                         of the airport in Peru.
                          No, I'm not celebrating until we're
                          all the way back home.
 
@@ -1688,7 +1692,7 @@
                          some studio time here.
 
                                    DAVID
-                         Studio time?  I though you were
+                         Studio time?  I thought you were
                          taking it easy.
 
                                    PHIL
@@ -1774,7 +1778,7 @@
                                    PHIL
                          Oh right, some people jumped me-
                              (lets out a painful cough)
-                         Why can't I talk?
+                         Why does it hurt when I talk?
 
                                    DAVID
                          The doctor said your vocal chords
@@ -1783,7 +1787,7 @@
 
                                    PHIL
                          For the most part?  What does that
-                         mean?  This is my career!
+                         mean?  This is my career-
                              (grimaces in pain from
                               speaking)
 
@@ -1948,22 +1952,22 @@
 
                                    PHIL
                          He said a few things about you too!
-                         I think your experiences with film
+                         I think what you've done with film
                          and organizing with be really
                          helpful here.  So he told you about
                          the concert.
 
                                    DENI
                          He did.  I didn't know a whole lot
-                         about the recent events in Chile,
-                         but I've been reading through every
+                         about what happened in Chile, so
+                         I've been reading through every
                          Newsweek and Time I can find.
 
                                    PHIL
-                         Ok, that's a good start.  And
-                         that's the thing, no one's hearing
-                         much about this, and that's what
-                         we're going to change.  So I'm
+                         All right, that's a good start.
+                         And that's the thing, no one's
+                         hearing much about this, and that's
+                         what we're going to change.  So I'm
                          calling it "An Evening with
                          Salvador Allende" and I need your
                          help to run it.  I've already
@@ -2263,22 +2267,22 @@
 
                                    PHIL
                          I swear if someone calls me that
-                         again I will cut them open like a
+                         again I- I'll cut them open like a
                          goddamned fish!  You're speaking
                          with John Train on Phil's behalf.
                          My client demands to be released
                          from any remaining contractural
-                         obligations with A&M Records. If he
-                         doesn't-
+                         obligations with A&M Records.  If
+                         he doesn't-
 
                                    A&M EXECUTIVE
                          Fine!  Consider it done!  Now get
                          the hell out of here.
 
                                    PHIL
-                         Well that was easy.  (to others in
-                         lobby)  See, that's all I was
-                         asking!
+                         Well that was easy.
+                             (to others in lobby)
+                         See, that's all I was asking!
 
                Phil turns around and slowly walks out of the lobby while
                everyone stares at him.
@@ -2289,17 +2293,76 @@
         After visiting Alice and daughter
 
 
+
+               INT. KITCHEN OF ALICE'S HOUSE - DAY
+
+               The phone rings and Alice picks up the phone.
+
+                                   ALICE
+                         Hello?
+
+
+
+               INT. KITCHEN OF PHIL'S APARTMENT - DAY
+
+               Phil is sitting at a chair, in the background some of his
+               belongings are in boxes.
+
+                                   PHIL
+                         Hi Alice, it's... me.
+
+
+
+               INTERCUT - PHONE CONVERSATION
+
+                                   ALICE
+                         Phil!  It's been a while.
+
+                                   PHIL
+                         I know, it has.  By the way, I go
+                         by John Train now.
+
+                                   ALICE
+                         Okay...
+
+                                   PHIL
+                         But that's not important.  Listen,
+                         I- I'm moving back to New York.
+                         And I was wondering if it would be
+                         all right if I saw you and Meegan
+                         before I go.
+
+                                   ALICE
+                         Yes, of course.  Why don't you come
+                         up and stay here?
+
+                                   PHIL
+                         That would be really nice,
+                         actually.
+
+
+
+               EXT. OUTSIDE OF ALICE'S HOUSE
+
+               Phil drives up and gets out of the car wearing a hammer
+               through his belt.  Alice opens the door and looks surprised.
+               They embrace.
+
+               Cut to scenes of Phil, Alice and Meegan having a picnic.  Cut
+               to another scene of Phil and Meegan at a flea market.
+
+
         Scenes of depression
 
-        Zoom in on open window while Phil sitting with friends.  "Do you think my songs will
-        survive?" (p351)
+        Phil is back in New York.  Zoom in on open window while Phil sitting with friends.  "Do you
+        think my songs will survive?" (p351)
 
 
         End of Act 5
 
         Phil staying with sister, playing "Jim Dean of Indiana", looking like a ghost, lying to his
         sister that he's taking his pills but he has't taken a single one.  Suicide scene.  Credits
-        show FBI was tracking him since 1963
+        show FBI was tracking him since 1963.
 
         Mirror the first scene, but this time Phil's seated starting out the window.  His sister Sonny
         tells him she's going to work and is he sure he doesn't want breakfast?.
